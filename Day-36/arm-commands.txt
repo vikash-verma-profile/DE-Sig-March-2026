@@ -1,0 +1,5 @@
+az group create --name myRG --location eastus
+
+az deployment group create \
+  --resource-group myRG \
+  --template-file template.json

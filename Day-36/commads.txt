@@ -1,0 +1,15 @@
+1.sudo apt update -y
+2.sudo apt install apache2 -y
+3.sudo systemctl start apache2 
+4.sudo systemctl enable apache2 
+5.curl localhost
+
+http://20.115.48.207/
+sudo ufw allow 'Apache Full'
+cd /var/www/html
+sudo rm index.html
+sudo nano index.html
+<write some text>
+ctrl+x => yes
+
+chmod 400 <key-name>
