@@ -1,0 +1,17 @@
+Module 6 — Azure Data Factory
+Pipelines & activities
+Copy activity
+Integration Runtime
+Mapping Data Flows
+Parameterization
+Triggers & scheduling
+Monitoring ADF
+
+Module 7 — Azure Databricks (Integration Focused)
+Workspace deployment
+Cluster configuration best practices
+ADLS mounting patterns
+Managed Identity integration
+Secure networking (Private Link)
+Cost optimization patterns
+Production deployment patterns

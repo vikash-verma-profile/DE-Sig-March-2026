@@ -1,0 +1,13 @@
+Module 4 — Azure Data Lake Storage Gen2
+Storage architecture
+Containers & hierarchy
+Access methods (Keys, SAS, Service Principal, Managed Identity)
+Lifecycle management
+Encryption basics
+Data lake folder design patterns
+
+Module 5 — Lakehouse Architecture in Azure
+ADLS + Databricks integration model
+Bronze → Silver → Gold in Azure
+Cost-aware storage design
+Performance considerations
