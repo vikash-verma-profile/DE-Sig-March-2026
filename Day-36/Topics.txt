@@ -1,0 +1,33 @@
+Module 1 — Azure Cloud Foundations
+Azure global architecture (Regions, AZs)
+Subscriptions & Resource Groups
+Azure Resource hierarchy
+ARM concepts
+Azure pricing & cost management
+
+Module 2 — Identity & Governance
+Microsoft Entra ID
+RBAC model
+Managed Identity
+Azure Policies
+Budget & alerts
+
+Module 3 — Networking for Data Platforms
+Virtual Network (VNet)
+Subnets
+Network Security Groups
+Private Endpoints
+Service Endpoints
+Basic Key Vault integration
+Secure access to storage & Databricks
+
+sudo apt update
+sudo apt install apache2
+
+
+scp new-key.pem azureuser@172.174.211.141:new-key.pem
+
+az --version
+az login
+
+
