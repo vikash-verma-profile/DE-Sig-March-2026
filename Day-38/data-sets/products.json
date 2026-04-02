@@ -1,0 +1,22 @@
+[
+  {
+    "ProductID": "P001",
+    "ProductName": "Smartphone X",
+    "Category": "Electronics"
+  },
+  {
+    "ProductID": "P002",
+    "ProductName": "Running Shoes",
+    "Category": "Fashion"
+  },
+  {
+    "ProductID": "P003",
+    "ProductName": "Blender Pro",
+    "Category": "Home Appliances"
+  },
+  {
+    "ProductID": "P004",
+    "ProductName": "Gaming Mouse",
+    "Category": "Electronics"
+  }
+]

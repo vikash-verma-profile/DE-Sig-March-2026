@@ -1,0 +1,47 @@
+Module 1 — GCP Foundations
+Introduction to Google Cloud Platform
+Key global infrastructure
+GCP Console walkthrough
+
+IAM (Identity & Access Management)
+Users
+Roles
+Service Accounts
+Principle of least privilege
+IAM at Organization / Folder / Project level
+
+GCP Resource Hierarchy
+Organization → Folder → Project
+Project isolation
+Best practices for project structure
+
+GCP Networking Foundations
+VPC
+Subnets
+Firewall rules
+Private Service Connect
+VPC Peering
+
+Billing & Cost Management
+Pricing models
+Budgets
+Cost alerts
+Cost optimization basics
+
+Cloud Shell & gcloud CLI
+Cloud Shell basics
+gcloud commands
+Deploying resources using CLI
+
+Module 2 — Cloud Storage (Foundation for Data)
+
+Cloud Storage (GCS)
+Bucket structure
+Storage classes
+Lifecycle rules
+Object versioning
+
+GCS in Data Engineering
+Raw data storage
+Landing zone
+Data lake patterns

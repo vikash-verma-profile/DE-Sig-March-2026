@@ -1,0 +1,15 @@
+Module 8 — Azure Streaming
+Event Hub
+IoT Hub (concept)
+Stream Analytics
+Windowing functions
+Stream → ADLS / Synapse
+Monitoring streaming jobs
+
+Module 9 — Azure Synapse Analytics
+Dedicated SQL Pool
+Distribution strategies
+Partitioning
+Loading data
+Synapse vs Databricks comparison
+Synapse vs Redshift comparison

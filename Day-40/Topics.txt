@@ -1,0 +1,30 @@
+Module 10 — Security & Observability
+Encryption at rest & in transit
+Azure Key Vault
+SQL auditing
+Data masking
+Network isolation patterns
+Azure Monitor
+Log Analytics
+Diagnostic settings
+
+Module 11 — Optimization & Lifecycle
+Archival strategies
+Delta optimization
+Storage optimization
+Cost optimization
+
+Module 12 — Architecture Decision Framework
+ADF vs Databricks decision patterns
+Synapse vs Databricks tradeoffs
+Fabric vs Synapse comparison
+Serverless vs Dedicated tradeoffs
+Production architecture patterns
+
+Module 13 — Microsoft Fabric
+OneLake
+Fabric Lakehouse
+Fabric Pipelines
+DirectLake
+End-to-end flow:
+Raw → Transform → Synapse/Fabric → Power BI
