@@ -2,8 +2,9 @@ from azure.eventhub import EventHubProducerClient, EventData
 import json, time, random
 from datetime import datetime
 
-conn_str ="Endpoint=sb://iot-stream-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=yLxSotdl1bPrhE1bQmy46D1DF9Rvr+WGd+AEhAgNkNM="
+conn_str ="Endpoint=sb://synapsetest.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=UF3gMt0pohtJVkbQMcm491LVYtRJ4YdrH+AEhPyTnU8="
 eventhub_name = "iot-data"
+
 
 producer = EventHubProducerClient.from_connection_string(
     conn_str=conn_str,
