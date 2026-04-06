@@ -1,0 +1,31 @@
+Module 1 — Snowflake Architecture & Core Concepts
+What is Snowflake
+Key differentiators
+Multi-cluster shared architecture
+Architecture layers
+Storage layer
+Compute layer
+Cloud services layer
+Separation of storage & compute
+Virtual warehouse fundamentals
+Scalability using multi-cluster compute
+Time Travel
+Fail-safe
+Zero Copy Cloning
+
+Module 2 — Account & Access Management
+Snowflake account structure
+Roles, Users, Grants
+RBAC model
+Access hierarchy
+Secure access guidelines
+Snowsight UI overview
+Warehouse dashboard overview
+
+Module 3 — Virtual Warehouses & Compute Management
+Creating & configuring virtual warehouses
+Warehouse sizing considerations
+Scaling (auto-suspend, auto-resume, multi-cluster)
+Warehouse costs
+Resource monitors
+Basic performance considerations

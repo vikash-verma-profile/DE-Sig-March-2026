@@ -1,0 +1,30 @@
+Module 4 — Data Loading Fundamentals
+Snowflake stages
+	Internal stage
+	External stage (S3, Azure Blob, GCS)
+File formats (CSV, JSON, PARQUET)
+COPY INTO basics
+Bulk loading using COPY
+Loading structured data
+Loading semi-structured data
+Loading unstructured data (Snowflake support overview)
+SnowSQL CLI
+
+Module 5 — Continuous & Advanced Loading
+Snowpipe (continuous ingestion)
+COPY options:
+o	PURGE
+o	ON_ERROR
+o	FORCE
+o	MATCH_BY_COLUMN_NAME
+Unloading data
+Data loading best practices
+
+Module 6 — Data Processing & SQL in Snowflake
+Scalar functions
+Aggregate functions
+Window functions
+Stored Procedures introduction
+Tasks (scheduling)
+Streams (CDC basics)
+Materialized views

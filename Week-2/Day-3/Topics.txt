@@ -1,0 +1,58 @@
+Module 3 — Data Ingestion & Messaging
+Pub/Sub
+Topics
+Subscriptions
+Push vs Pull
+Message retention
+Real-time ingestion patterns
+
+Batch ingestion patterns
+GCS as landing zone
+
+Module 4 — Processing Services
+Dataflow (Apache Beam)
+Beam model (PCollection, PTransform, Pipeline)
+Batch vs Streaming
+Typical Dataflow pipeline structure
+
+Dataproc (Managed Spark/Hadoop)
+Cluster modes
+Autoscaling
+Submitting PySpark / Spark SQL jobs
+
+Module 5 — BigQuery (Data Warehouse Layer)
+BigQuery Architecture
+Storage & Compute separation
+Datasets
+Tables
+Jobs
+
+Partitioning
+Clustering
+Cost-aware querying
+
+BigQuery SQL hands-on
+BigQuery External Tables
+GCS → BigQuery patterns
+
+Module 6 — Orchestration on GCP
+Cloud Composer (Managed Airflow)
+Environment
+DAG deployment model
+Scheduling BigQuery jobs
+Triggering Dataflow jobs
+Triggering Dataproc jobs
+
+Composer vs Standalone Airflow
+
+Module 7 — End-to-End Integration
+Batch Pipeline
+GCS → Dataproc/Dataflow → BigQuery → Composer Orchestration
+
+Streaming Pipeline
+Pub/Sub → Dataflow → BigQuery
+
+Operational view
+Monitoring
+Logs
+Cost considerations
