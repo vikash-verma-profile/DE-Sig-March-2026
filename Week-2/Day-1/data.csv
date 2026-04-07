@@ -1,0 +1,1001 @@
+customer_id,customer_name,city,plan_type,monthly_charges,data_usage_gb,call_minutes,churn_flag
+0,Cynthia White,Brooksfort,Postpaid,966.72,4.96,661,0
+1,Kevin Hancock,Calebshire,Prepaid,113.45,8.91,972,1
+2,John Anderson,Rogermouth,Postpaid,542.52,32.78,1150,0
+3,Pamela Young,Kevinfort,Prepaid,1091.95,40.33,206,0
+4,Rebecca Sanchez,North Jamesburgh,Prepaid,987.57,37.92,1294,0
+5,Christy Novak,New Stephen,Prepaid,646.12,6.24,1387,0
+6,Luke White MD,Armstrongmouth,Postpaid,1847.34,45.62,1523,0
+7,Dr. Timothy Hess,West Adrianborough,Postpaid,690.68,27.73,544,1
+8,Natalie Sutton,Clarkview,Prepaid,975.42,49.36,1409,0
+9,Hannah Murillo,North Elizabethberg,Prepaid,1627.96,1.46,446,1
+10,Joseph Cox,Lake Louiston,Postpaid,166.5,38.5,1711,0
+11,Isabel Lee,West Ryan,Postpaid,237.4,25.47,1860,0
+12,Erika Mccoy,New Jamie,Prepaid,566.38,25.07,1379,0
+13,Whitney Miranda,Katrinaview,Prepaid,920.86,20.94,286,1
+14,Emily Ramos,Juanville,Postpaid,614.39,47.4,504,0
+15,Kimberly Price,Williamport,Postpaid,243.9,24.35,1193,0
+16,Joel Hendrix,Stephenschester,Postpaid,1058.49,36.64,1528,1
+17,Craig Gregory,North Carla,Postpaid,1101.31,12.15,1331,1
+18,Shelby Gaines,Lake Danielborough,Prepaid,1292.39,16.39,1186,0
+19,Dawn Weaver,Sarahchester,Postpaid,1811.79,33.62,176,0
+20,Jennifer Jones,Lake Corey,Postpaid,423.58,42.55,1154,1
+21,Troy Williams,Gregoryborough,Prepaid,1527.0,9.51,639,1
+22,Christopher Wilson,Lake Stephen,Postpaid,387.2,4.66,1135,0
+23,Calvin Walsh,Jonesburgh,Postpaid,1599.92,40.97,1894,0
+24,Patricia Schneider,New Benjaminland,Postpaid,1363.56,33.25,1124,1
+25,Kendra Ortiz,Port Seanton,Prepaid,1607.79,49.4,467,1
+26,Betty Rhodes,Harrisberg,Postpaid,1787.08,2.69,1703,0
+27,Christopher Mcmahon,Lake Johntown,Postpaid,457.94,3.23,593,1
+28,Jennifer Powell MD,Port Matthewbury,Prepaid,1478.54,31.98,759,0
+29,Chloe Barber,Lake Laura,Postpaid,573.23,33.38,1633,0
+30,William Fowler,Mendezchester,Postpaid,1362.58,36.79,403,1
+31,Shannon Gallegos,New Dianaton,Prepaid,795.29,8.06,1258,1
+32,Michael Tucker,Leahport,Prepaid,1935.85,19.87,958,0
+33,Roy Sutton,New Scott,Prepaid,410.43,44.1,1455,1
+34,Claudia Diaz,Lake Michele,Postpaid,1551.2,43.9,1801,0
+35,Judy Riley,North Timothyhaven,Postpaid,1601.83,18.69,1175,0
+36,Breanna Marks,Port Jessicaburgh,Postpaid,983.39,41.8,373,0
+37,Lucas Anderson,New Eric,Prepaid,966.14,44.92,355,1
+38,Mary Watts,South Louis,Prepaid,1931.64,18.85,1813,0
+39,Misty Gomez,Jordanton,Prepaid,1649.69,5.8,424,1
+40,Timothy Garcia,Garciamouth,Postpaid,787.96,24.67,1313,1
+41,Richard Mendoza,Ellisonton,Postpaid,1747.44,9.09,88,1
+42,Edward Thomas,West Joseph,Postpaid,1607.82,45.7,1674,1
+43,Krista Owens,West Amandaville,Prepaid,1600.43,14.19,158,1
+44,Matthew Hernandez,West Jeanettemouth,Postpaid,308.59,29.98,1237,1
+45,James Vaughn,North Seanchester,Prepaid,293.45,3.62,1724,0
+46,Paul Smith,East Erin,Prepaid,736.64,33.92,674,1
+47,Jessica Cox,Stacyview,Postpaid,1470.28,42.69,1484,0
+48,William Hill,Andreton,Postpaid,1912.52,39.92,1371,0
+49,William Dixon,North David,Prepaid,785.49,48.89,1036,0
+50,Michael Lara,East Curtisfort,Prepaid,869.92,31.69,1710,1
+51,Amber Perez,Wallston,Prepaid,534.17,49.42,1857,0
+52,Dr. Lisa Watson MD,Darleneport,Prepaid,1607.72,7.12,1791,0
+53,Mrs. Sandy Fitzgerald MD,Andersonberg,Postpaid,747.35,1.88,851,1
+54,Jason Perez,Port James,Prepaid,1517.19,47.32,700,0
+55,Kathleen Andrews,Erikview,Postpaid,1380.61,4.82,1898,1
+56,Ms. Beth Sanchez,Vazquezhaven,Postpaid,1496.26,47.96,74,0
+57,Sandra Smith,Lake Catherine,Prepaid,1822.79,9.33,945,0
+58,William Mckinney,Lunafort,Postpaid,1517.62,4.31,313,0
+59,Kevin Horn,South Jeremychester,Postpaid,1397.91,26.99,1143,1
+60,Morgan Griffin,New Sandra,Prepaid,873.87,3.78,1019,1
+61,Patricia Woodard,New Tommy,Prepaid,1629.1,24.82,373,0
+62,Brandon Rodriguez,Aliciaside,Prepaid,927.88,9.63,751,0
+63,Michelle Sanders,North Amanda,Postpaid,1648.7,21.84,59,1
+64,Tiffany Hoffman,Pamelashire,Prepaid,791.63,24.49,1515,0
+65,John Whitehead,Trevinoburgh,Prepaid,1852.69,6.91,999,1
+66,Geoffrey Duran,Jacobsonstad,Prepaid,1848.53,47.48,523,0
+67,Carmen Hansen,East Jefferyfort,Prepaid,1683.11,20.6,1569,0
+68,Stephen Morgan,North Garychester,Prepaid,1307.37,19.41,325,1
+69,Andrew Reynolds,New Kristin,Postpaid,333.59,41.55,483,1
+70,Mackenzie Brooks,Sarahmouth,Postpaid,324.58,43.17,157,1
+71,Dr. Sarah Smith,Aliciaberg,Prepaid,562.0,40.77,122,0
+72,Brent Vazquez,Alvaradoberg,Prepaid,698.59,38.01,589,1
+73,Joyce Taylor,North Cameron,Prepaid,266.52,14.99,1161,1
+74,Kimberly Perkins,Lake Jaystad,Postpaid,1505.11,20.35,227,1
+75,Christopher Vargas,Jameshaven,Postpaid,986.45,5.79,1698,1
+76,Karen Caldwell,Michaelton,Postpaid,501.18,45.99,1474,1
+77,Carlos Alvarez,Lindseyshire,Prepaid,1857.0,24.46,1014,1
+78,Brandon Williams,South Michaelfurt,Prepaid,1802.41,38.51,1739,1
+79,Vincent Patton,Port Heatherside,Prepaid,611.42,17.78,907,0
+80,Mr. Roger Hill Jr.,Peterville,Postpaid,919.26,18.5,201,0
+81,Joseph Christian,New Robert,Postpaid,675.68,11.06,1211,1
+82,Janet Davis,Hawkinsborough,Prepaid,1833.35,41.54,974,1
+83,Bruce Hughes,Lake Beckymouth,Postpaid,1049.35,4.73,1904,1
+84,April Zimmerman,Port Melissatown,Prepaid,1478.26,21.28,1267,1
+85,Rose Russell,East Kimberlyland,Prepaid,555.62,20.6,527,0
+86,Kristi Beck,North Melissa,Prepaid,1032.7,48.45,922,0
+87,Vincent Nguyen,North Antonio,Prepaid,429.76,29.52,510,1
+88,Melissa Castro,Sullivanside,Prepaid,1438.68,13.79,1470,1
+89,Michael Hoffman,Brendanfort,Postpaid,1795.63,2.3,1784,0
+90,Bailey Nelson,North Cynthiaburgh,Postpaid,341.72,36.47,1986,1
+91,Michael Taylor,Chelseahaven,Prepaid,534.91,16.87,741,1
+92,Diane Landry,Jessicafurt,Prepaid,1517.35,19.83,1188,1
+93,Jamie Cuevas,Joeland,Prepaid,900.39,21.93,1433,1
+94,Julie Li,East Daniel,Prepaid,725.62,6.03,1438,0
+95,Dennis Frey,Ashleyland,Prepaid,1393.42,28.21,159,0
+96,Brooke Boyle,Susanport,Postpaid,924.43,2.69,1132,0
+97,Charles Marquez,Wendyport,Prepaid,790.65,4.81,1421,1
+98,Michael Murphy,Paulfort,Prepaid,993.84,13.77,1510,1
+99,Natasha Burke,Johnsonbury,Prepaid,1555.95,8.55,1508,1
+100,Lindsey Mccullough,West Kimberlystad,Prepaid,1734.67,28.67,1868,1
+101,Christopher Johnson,Leebury,Prepaid,253.96,28.58,1527,1
+102,Mark Rasmussen,Rogersland,Prepaid,1489.98,18.51,126,1
+103,Nicole Cowan,Lake Jason,Postpaid,1076.16,25.61,281,0
+104,Alex Ellis,Marystad,Postpaid,1662.44,26.87,990,0
+105,Dr. Bryce Stanley,New Dawn,Postpaid,1818.68,46.0,640,1
+106,Dawn Owens,Amychester,Prepaid,1019.39,19.96,1344,0
+107,Sierra Oneill,Jackiebury,Postpaid,837.18,9.65,1574,0
+108,Gary Brock,Lawrencechester,Prepaid,511.28,33.17,173,0
+109,Renee Graham,Lake James,Postpaid,472.05,14.59,978,1
+110,Jane Delgado,New Davidburgh,Prepaid,1610.22,3.96,1384,1
+111,Angel Caldwell,East Chelsea,Prepaid,1941.12,21.61,816,0
+112,Suzanne Morgan,North Samantha,Prepaid,1063.96,49.7,1184,1
+113,Desiree Miller,Lauraside,Postpaid,1148.73,43.1,1308,1
+114,Anthony Wilson,West Meganchester,Postpaid,1761.14,31.03,834,1
+115,Patricia Romero,Underwoodtown,Prepaid,500.65,47.37,1275,1
+116,Keith White,Friedmanbury,Prepaid,600.74,16.84,1755,1
+117,Norma Gray,Traceyfurt,Prepaid,302.72,19.16,784,0
+118,Mrs. Brenda Clark DDS,East Davidshire,Prepaid,1025.04,47.8,1000,0
+119,Brian Butler,Goodmanfurt,Prepaid,1094.76,10.24,643,0
+120,Stephanie Spencer,New Jeremyport,Prepaid,1823.52,16.55,369,0
+121,Mary Blevins,Brandyfort,Postpaid,1699.54,49.96,1623,1
+122,Patrick Hernandez,Port Amanda,Postpaid,382.8,12.0,1800,1
+123,Courtney Fletcher,Mitchellview,Postpaid,1353.59,13.44,1569,1
+124,Margaret Goodwin,Meredithstad,Prepaid,1211.46,37.94,765,0
+125,Lindsay Stout,Shepardville,Prepaid,1797.39,14.62,605,1
+126,Michael Simpson,Joannmouth,Prepaid,139.19,18.54,1359,0
+127,Kenneth Kemp,East Johnville,Prepaid,493.57,12.51,1712,0
+128,Brenda Parker,South Michael,Postpaid,781.58,28.9,821,1
+129,Alexa Kim,Rhondaborough,Postpaid,1026.27,20.7,993,1
+130,Samuel Snyder,Johnsonville,Prepaid,501.8,34.57,1939,0
+131,Laura Fernandez,Lake Alicia,Postpaid,1724.51,32.69,1821,1
+132,Christopher Silva,Ashleymouth,Prepaid,1815.13,10.61,1446,1
+133,Karen Allen,Turnerberg,Prepaid,400.17,7.64,1518,0
+134,Jessica Davis,North Ronaldtown,Prepaid,552.77,46.87,202,0
+135,Jordan Kemp,East Brandon,Prepaid,196.77,13.21,1389,0
+136,Ryan English,New Keith,Postpaid,297.28,17.61,1172,0
+137,Melissa Johnson,North Crystal,Prepaid,653.85,8.82,1726,0
+138,Shawn Montoya,New Codyfurt,Prepaid,357.33,22.85,1037,0
+139,Tammy Andrews,Davidchester,Postpaid,631.41,11.87,1845,1
+140,Katie Alexander,Laurenside,Prepaid,1760.91,12.82,1897,0
+141,Jennifer Hudson,South Rachel,Postpaid,1526.6,11.98,1911,0
+142,Sean Sweeney,New Kristin,Postpaid,1400.1,38.42,905,0
+143,Elizabeth Jones,Walkerport,Prepaid,1445.43,5.4,716,0
+144,Cody Lowe,North Kyle,Prepaid,1294.77,31.23,836,1
+145,Darlene Herrera,Bowmanshire,Prepaid,926.72,13.99,1410,0
+146,Ronald Wright,Combsmouth,Postpaid,1169.27,35.19,241,1
+147,Rebekah Martin,Mariebury,Postpaid,115.21,22.94,534,1
+148,Darren Robinson,Port Katrina,Prepaid,1799.57,38.11,863,1
+149,Sara Woods,Lambhaven,Postpaid,1375.93,15.82,1750,0
+150,Christina Anthony,East Erikaville,Prepaid,292.51,36.32,496,1
+151,Brendan Robinson,Port Rodney,Prepaid,888.91,19.38,615,0
+152,Anthony Wilson,East Stacey,Postpaid,1552.41,40.72,867,1
+153,Ricky Mays,Lake Jerry,Prepaid,296.48,33.67,1697,1
+154,Rachel Mitchell,East Sandyside,Postpaid,491.31,12.94,990,0
+155,Christine Woods,West Michelleton,Postpaid,1542.19,35.11,120,0
+156,Sherry Huynh,Lake Amyberg,Prepaid,404.34,44.41,1889,0
+157,Marc Walsh,New Danielle,Prepaid,1022.25,46.58,1741,1
+158,Kenneth Love,Carrieport,Prepaid,654.7,5.83,1963,0
+159,Michelle Brown,East Brittany,Prepaid,1773.48,32.09,1780,0
+160,Kathleen Alvarez,Jillianton,Prepaid,1777.29,36.9,174,1
+161,Crystal King,Lake Thomasfurt,Prepaid,563.05,25.19,551,1
+162,Alicia Kim,Russellhaven,Postpaid,1579.33,39.84,1166,0
+163,Tanya Larsen,Chelseaside,Prepaid,908.31,2.12,215,0
+164,Daniel Good,Oconnormouth,Postpaid,345.52,41.09,396,1
+165,April Morse,Gonzalezmouth,Postpaid,665.9,5.13,1489,1
+166,Jessica Pham,Oscarhaven,Prepaid,194.82,20.25,620,1
+167,Joseph Murray,New William,Prepaid,406.48,19.95,410,0
+168,Gloria Welch,Robertsonmouth,Prepaid,1151.8,26.15,1271,1
+169,David Hall,Langborough,Prepaid,1530.31,27.2,1228,1
+170,Deanna Cruz,North Debraberg,Postpaid,966.26,43.94,666,1
+171,Angela Lewis,Billyhaven,Prepaid,873.7,35.23,1543,1
+172,Shawna Norton,Williamburgh,Prepaid,876.03,21.72,126,1
+173,Austin Martin,Gillespiehaven,Prepaid,1986.66,35.45,956,0
+174,Gary Meyer,Michaelchester,Prepaid,630.36,47.29,614,1
+175,Tiffany Valentine,Watersview,Prepaid,272.3,1.87,1303,0
+176,Katie Garcia,West Michele,Postpaid,1672.71,28.32,265,1
+177,Matthew Moore,Martinchester,Postpaid,1138.22,32.63,517,1
+178,Gabrielle Travis,East Cynthia,Postpaid,1698.48,29.74,255,0
+179,Michael Carter,Smithtown,Postpaid,1474.91,7.8,1128,1
+180,Travis Brown,New Shannon,Prepaid,1839.9,18.92,801,0
+181,Tammie Rios,Reneeland,Prepaid,164.03,32.33,790,1
+182,Dean Gordon,West Paula,Postpaid,747.13,12.58,1400,1
+183,Ann Watkins,Port Peter,Prepaid,1983.32,48.35,1082,1
+184,Mark Powell,Rosemouth,Postpaid,1804.82,2.43,1183,1
+185,Ryan Christian,South Preston,Prepaid,1574.85,15.59,821,0
+186,Timothy Davidson,New Cheyenneberg,Prepaid,1813.15,38.32,1797,1
+187,Erik Taylor,Brooksmouth,Postpaid,1608.44,34.0,1291,1
+188,Amy Mckay,Phamland,Postpaid,418.3,33.27,871,0
+189,Danielle Howard,Paulmouth,Postpaid,526.63,16.22,1989,0
+190,Jason Patton,North Michellehaven,Prepaid,1859.56,31.86,1765,1
+191,Joseph Berry,Ayersshire,Postpaid,1811.93,30.9,873,1
+192,Kenneth Drake,North Charles,Postpaid,279.28,7.33,425,0
+193,Stephanie Molina,Melissaland,Prepaid,1034.53,26.12,448,0
+194,Brittany Johnson,Lake Suzannefort,Prepaid,1054.85,38.46,288,1
+195,Ricardo Smith,Greerside,Postpaid,1150.34,15.21,135,0
+196,Robert Garrison,West Ian,Postpaid,586.37,20.68,1062,0
+197,Paul Allen,North Daleton,Prepaid,1668.3,5.54,688,1
+198,Jack Dyer,North Laura,Postpaid,449.72,20.94,865,0
+199,Traci Huff,Catherineland,Postpaid,1254.6,9.28,623,1
+200,Pamela Mora,Roblesfurt,Postpaid,678.21,7.99,751,1
+201,Amanda Carey,Salasberg,Postpaid,1471.17,32.96,551,0
+202,Matthew Sanchez,North Barrystad,Prepaid,374.06,32.72,97,1
+203,Martha Rich,Danielborough,Prepaid,1251.63,24.37,1023,0
+204,Alexa Summers,West Daniel,Postpaid,1364.24,37.92,1979,0
+205,Teresa Ortiz,Tatehaven,Postpaid,784.45,35.24,1090,1
+206,Janet Meyers,West Richard,Postpaid,1880.58,5.59,852,0
+207,Tracy Zavala,Emilyberg,Prepaid,1814.79,25.6,1184,1
+208,Mary Lewis,Wilsontown,Prepaid,864.03,17.14,1998,1
+209,Megan Walton,Port Anthony,Postpaid,448.14,17.88,478,1
+210,Patricia Cline,Port Timothy,Prepaid,538.2,7.24,1759,1
+211,Tracy Hill,Barbarastad,Postpaid,610.23,2.18,1969,0
+212,Monica Dyer,Millsstad,Postpaid,430.39,6.01,1680,0
+213,Holly Brown,Lake Scott,Prepaid,1938.25,11.8,1306,0
+214,Dustin Pena,Jacobmouth,Prepaid,930.67,12.8,1491,1
+215,Christopher Thomas,Davisport,Prepaid,968.91,13.93,585,0
+216,Julia Olsen,Martinezmouth,Prepaid,1438.25,17.85,1055,1
+217,Jessica Harris,Lake Susan,Postpaid,792.3,1.54,1319,1
+218,Lisa Butler,Port Wanda,Postpaid,552.78,5.49,1784,0
+219,Richard Martin,South Jessicaside,Prepaid,811.51,7.74,1070,0
+220,Elizabeth Carroll,New Ryan,Prepaid,163.23,8.74,1038,0
+221,Cynthia Smith,South Tammytown,Postpaid,1110.03,26.21,1909,1
+222,Mark Ward,East Michaelmouth,Prepaid,956.1,3.51,207,0
+223,Adam Marsh,Greenfort,Prepaid,1399.01,47.99,997,0
+224,Laura Cortez,New Miguel,Prepaid,294.74,17.46,690,1
+225,Alexander Medina,Bairdfort,Prepaid,1196.0,21.96,1227,1
+226,Justin Gilbert,Wiseville,Postpaid,573.38,27.96,1758,0
+227,Debra Evans,Markborough,Prepaid,1405.77,10.2,1196,1
+228,Patricia Jones,Scottmouth,Prepaid,490.19,35.1,1335,1
+229,Matthew Shields,West Edward,Prepaid,888.39,34.75,180,1
+230,Alison Hebert,Port Alexis,Postpaid,997.13,3.63,1101,1
+231,Linda Anderson,Lake Tommy,Prepaid,895.23,20.19,1624,0
+232,Cheyenne Palmer,North Timothyburgh,Prepaid,799.01,40.13,949,0
+233,Daniel Lopez,West Christopherfort,Postpaid,874.49,18.18,1971,1
+234,Marc Hernandez,Port Allison,Postpaid,248.92,23.26,864,1
+235,Christina Travis,East Daniel,Postpaid,107.69,19.56,1436,0
+236,Todd Davis,East Cindyshire,Postpaid,1719.02,15.47,1764,0
+237,Darrell Howard,Port Yvonne,Postpaid,1863.13,10.06,1759,1
+238,Brett Allen,Beckberg,Postpaid,1108.19,18.11,1890,1
+239,Brooke Lee,Yangstad,Postpaid,1032.81,21.09,1945,0
+240,Courtney Reed,Ashleyborough,Postpaid,942.21,42.45,247,0
+241,Leslie Snyder,New Davidmouth,Postpaid,1652.49,5.72,1741,0
+242,Bradley Barker,Port Stephanie,Prepaid,253.57,17.84,230,1
+243,Jason Brown,Gutierrezburgh,Postpaid,1876.36,8.21,1578,0
+244,Michelle Johnson,Nicolefort,Prepaid,1832.31,11.82,1127,1
+245,Cynthia Ellis,South Melissa,Postpaid,773.21,1.36,334,1
+246,Anthony White,North Jeremyfurt,Prepaid,969.27,16.43,510,1
+247,Mary Miles,Sandyview,Postpaid,1908.9,41.16,772,0
+248,Derek Santana,Emilyfort,Prepaid,1096.8,36.73,1403,1
+249,Megan Gordon,Hugheshaven,Prepaid,188.54,21.15,1722,0
+250,Tanner Zamora,East Nathan,Prepaid,1530.72,25.53,334,0
+251,Courtney Kelley,Laurenside,Postpaid,1906.65,38.81,1269,1
+252,David Mata,Smithmouth,Postpaid,391.86,5.04,302,0
+253,Samantha Vance,Anthonyfurt,Postpaid,676.73,31.3,606,0
+254,Caitlin Brown,Waltersburgh,Postpaid,312.87,22.34,825,0
+255,Amber Taylor,Adamland,Postpaid,534.05,47.04,1965,0
+256,Katie Espinoza DVM,Holmesview,Prepaid,416.45,46.52,1961,1
+257,Michael Austin,North Brian,Postpaid,776.68,47.92,1115,0
+258,Kenneth Henderson,Nicoleport,Prepaid,1990.14,30.8,1432,1
+259,Jeffery Rush,South Matthewfort,Postpaid,1774.73,14.61,1324,0
+260,Danielle Rodriguez,Davisstad,Postpaid,125.8,15.61,1339,1
+261,Kristi Brown,Andreashire,Postpaid,375.4,31.2,1072,0
+262,Julia Williams,Karenshire,Prepaid,299.66,41.72,1909,1
+263,Jon Baker,New Brookeburgh,Prepaid,1291.63,3.01,1266,0
+264,Sherri Roberts,Amandamouth,Postpaid,1642.62,32.04,216,1
+265,Omar Trevino,East William,Postpaid,792.09,25.68,1393,0
+266,Cassandra Davis,East Rachelfurt,Prepaid,145.91,2.12,1296,1
+267,Ellen Tate,South Joshuamouth,Prepaid,992.15,8.16,587,0
+268,Cynthia Stewart,South Jerryshire,Prepaid,1935.96,10.45,1455,1
+269,Clinton Ellison,Nunezland,Prepaid,565.91,13.84,1508,0
+270,Richard Rios,Brendahaven,Postpaid,1004.07,21.18,896,0
+271,Janet Horton,Montgomerybury,Postpaid,1554.58,4.27,1002,0
+272,Anthony Edwards,Thomaston,Postpaid,212.56,23.0,1323,1
+273,Taylor Collier,Leeville,Postpaid,1931.34,29.06,242,1
+274,Michael Jimenez,West Brandonbury,Postpaid,1039.79,46.58,1698,0
+275,Benjamin Taylor,North Jackiestad,Postpaid,912.7,24.2,1702,0
+276,Janet Rivera,New Brittanyhaven,Prepaid,1268.35,43.86,435,1
+277,Catherine Baldwin,Donnamouth,Postpaid,1533.85,30.02,1019,0
+278,Erica Villarreal,Katieburgh,Prepaid,1525.58,9.95,991,1
+279,Janet Smith,Samanthaland,Postpaid,1811.77,14.94,486,0
+280,Krista May,West Davidville,Postpaid,1163.64,43.74,948,1
+281,William Mason,Hillport,Postpaid,1698.58,24.5,671,0
+282,Kevin White,Port Geoffreyfurt,Postpaid,1258.99,40.88,561,1
+283,James Archer,New Joseph,Postpaid,813.86,21.76,372,0
+284,Kristin Harris,Pricemouth,Prepaid,1894.81,32.24,1556,1
+285,Jasmine Smith,Andersonside,Prepaid,1016.73,28.23,291,0
+286,Gina Rodriguez,North Charlesport,Postpaid,1623.9,17.27,1463,1
+287,Lindsay Ryan,Stevenborough,Prepaid,1970.85,2.25,628,1
+288,Samantha Thompson,North Jorge,Prepaid,757.21,3.48,135,0
+289,Wendy Mitchell,Holderville,Postpaid,640.88,8.68,1680,1
+290,Shawn Woodward,South Sarahport,Prepaid,1977.82,44.58,1100,0
+291,Gabriela Bryan,New Steven,Postpaid,1309.53,47.05,1428,1
+292,Samantha Kent,East William,Prepaid,1441.16,31.38,1351,0
+293,Darryl Schultz DDS,Lake Laura,Postpaid,825.52,39.3,1882,1
+294,Ronald Williams,New Antoniostad,Postpaid,1960.49,38.39,1469,0
+295,James Salinas,Watsonburgh,Postpaid,553.75,20.32,1700,1
+296,Kelsey Smith,Estesmouth,Postpaid,1108.81,6.01,966,1
+297,Sarah Roman,Boydhaven,Prepaid,407.87,7.68,1657,0
+298,Amber Johnson,East Karenmouth,Postpaid,895.16,48.31,1500,0
+299,David Caldwell,Port Erica,Postpaid,1506.72,5.34,756,0
+300,Tammy Morse,Amandahaven,Postpaid,1935.63,44.4,1465,0
+301,Jeffrey James,West Chad,Prepaid,1237.41,27.1,1075,1
+302,Joshua Hart,Whitehaven,Prepaid,1854.77,21.0,712,1
+303,Alex Ramirez,Fitzpatrickbury,Prepaid,134.58,17.61,1783,1
+304,Brianna Washington,Foxbury,Prepaid,132.18,23.12,837,0
+305,Samantha Olson,New Nicolemouth,Postpaid,215.57,11.15,1722,1
+306,Hunter Simpson,Petersport,Prepaid,1280.8,21.51,328,1
+307,Tyler Nguyen,New Allenstad,Prepaid,694.67,17.54,1633,1
+308,Jack Orozco,North Jeremyborough,Postpaid,153.51,43.59,137,0
+309,David Braun,New Stephanieville,Prepaid,1714.86,46.63,305,1
+310,Robert Paul,New Danielle,Prepaid,434.45,21.96,1409,1
+311,Crystal Buckley,Lake Caseyland,Postpaid,977.28,9.99,369,1
+312,Rachel Bennett,Bryanburgh,Postpaid,880.29,12.76,548,1
+313,Nicholas Mckee DDS,New Caroline,Postpaid,1483.38,4.24,1778,0
+314,Sharon Simpson,Port Tamarafort,Postpaid,1807.59,3.54,820,1
+315,Taylor Davis,West Mallorytown,Postpaid,626.43,33.91,1310,0
+316,Alex Hughes,North Michelle,Postpaid,1911.82,17.96,1241,1
+317,Rachel Bright,Mitchellfurt,Postpaid,1781.65,45.11,1034,0
+318,Timothy Ferguson,Adrianborough,Prepaid,345.6,46.45,1388,1
+319,Todd Lopez,Port Matthewbury,Postpaid,1338.64,39.54,1204,1
+320,Jessica Holland,West Dannymouth,Postpaid,1693.47,13.56,1458,1
+321,Kevin Vasquez,North Steven,Postpaid,1182.28,11.62,925,1
+322,Jennifer Green,Lake James,Prepaid,1927.21,7.76,525,1
+323,Jennifer Harris,Port Mariamouth,Prepaid,573.17,31.03,128,1
+324,Jason Long,Johnnyville,Prepaid,964.64,18.95,779,1
+325,Elizabeth Hernandez,Lake Tommymouth,Postpaid,1038.62,48.4,803,0
+326,Aaron Park,North Michealborough,Postpaid,968.53,13.82,1297,0
+327,Christine Wiley,Judyfort,Postpaid,1236.57,3.78,1791,0
+328,Traci Oneill,Perezport,Prepaid,1261.85,48.56,383,0
+329,Jennifer Clark,Priceton,Prepaid,689.0,15.39,1485,0
+330,Lisa Garcia,Davidfort,Postpaid,1104.99,29.58,1678,1
+331,Jon Mcfarland,Danielfurt,Postpaid,1736.72,14.65,580,1
+332,Jamie Duran,Calvinport,Prepaid,1150.9,14.67,131,1
+333,Lawrence Torres,Susanfort,Prepaid,513.65,9.28,1725,1
+334,Austin Johnson,Karentown,Prepaid,1379.12,38.19,773,0
+335,Matthew Fleming,New Ryan,Postpaid,1340.75,19.11,1546,1
+336,Stacey Blackburn,Lake Beth,Prepaid,1623.73,37.57,1122,0
+337,James Young,Gutierrezfurt,Prepaid,846.63,20.18,589,1
+338,Jonathon Tran,West Sandraville,Prepaid,122.78,26.7,1262,0
+339,Dr. Katherine Taylor,North Sarah,Prepaid,1919.8,2.99,1143,1
+340,Mary Hartman,Scottshire,Postpaid,1494.59,47.46,213,1
+341,Tammy Pugh,Jimenezview,Prepaid,580.01,41.51,1874,0
+342,Anthony Wright,South Hollyberg,Postpaid,1910.77,38.56,1530,1
+343,Madison Walsh,Lake Mckenzie,Prepaid,1151.35,45.51,650,1
+344,Martin Wallace,Port Shane,Prepaid,327.56,40.68,1249,0
+345,Kevin Lowe,North Robert,Prepaid,1821.1,16.56,98,0
+346,Maria Stanley,South Patriciaberg,Prepaid,844.56,11.8,206,1
+347,Shannon Rangel,Port Josephmouth,Prepaid,1172.03,25.25,130,1
+348,Roger Huff,Elizabethport,Postpaid,1342.59,42.93,301,1
+349,Steven Henderson,Nelsonborough,Postpaid,600.58,32.1,279,1
+350,Shelby Webb,Holmesberg,Postpaid,209.24,25.72,1200,1
+351,Jennifer Cooper,Lisaton,Postpaid,1850.92,1.04,1556,1
+352,David Tran,Port Patriciahaven,Postpaid,406.59,25.02,1287,1
+353,Joel Mclean,West Amberburgh,Postpaid,1771.77,2.56,1835,1
+354,Rodney Wilson,Lake Kevinfort,Prepaid,904.2,49.76,379,0
+355,John Moore,Cynthiaside,Postpaid,1475.03,42.46,545,0
+356,Hunter Garcia,Davidhaven,Postpaid,194.87,41.33,358,1
+357,Charles Brooks,New Brycefurt,Prepaid,1602.65,27.69,1026,0
+358,Marcus Kim,Port Mark,Prepaid,1944.82,29.43,579,1
+359,Jon Hoffman,New Megan,Postpaid,1432.06,16.49,1339,1
+360,Amber Robertson,New Tracy,Prepaid,1298.57,7.38,499,0
+361,Randall Davis,Edwardsbury,Postpaid,225.32,21.11,175,1
+362,Renee Barnes,Simmonsfurt,Postpaid,338.14,29.11,840,1
+363,Matthew Robinson,Lake James,Postpaid,135.3,8.05,382,0
+364,Mary Williams,Robertton,Prepaid,1341.48,36.88,1893,1
+365,Willie Pruitt,North Christy,Prepaid,342.54,29.47,1090,1
+366,Michael Diaz,North David,Prepaid,873.24,4.93,1309,1
+367,Ashley Smith,Amyburgh,Postpaid,1161.12,9.84,1841,0
+368,Eric Morris,Barrmouth,Prepaid,747.06,20.14,763,0
+369,Stephen Mann,South Robertbury,Prepaid,1516.91,5.1,1170,0
+370,Brooke Flores,Williamsonmouth,Prepaid,545.54,39.99,1079,1
+371,Amanda Richardson,New Rebecca,Postpaid,1130.59,10.44,803,0
+372,Laura Savage,West Renee,Postpaid,1052.64,5.03,682,0
+373,Kyle Harris,Elizabethbury,Postpaid,1197.89,12.28,1535,1
+374,Tyler Franco,Port Timothyview,Prepaid,740.82,9.23,415,1
+375,Cheyenne Davis,Waltersberg,Prepaid,1507.26,20.98,727,0
+376,Steven Barr,Lake Jessicamouth,Postpaid,111.55,44.74,1655,0
+377,Jeffrey Mason,North Victoriaton,Prepaid,1236.66,14.63,1252,0
+378,Sharon Reynolds,New Kelly,Postpaid,546.16,40.8,1642,0
+379,Jessica Ross,Port Kevinfurt,Postpaid,774.98,39.37,1586,1
+380,Tammy Greene,Coreytown,Postpaid,619.26,9.74,1741,0
+381,Nathan King,Vincentstad,Postpaid,1084.79,46.26,1317,1
+382,Mr. John Collins,Ashleyport,Prepaid,947.46,3.98,1100,1
+383,Leslie Cox,North Jason,Prepaid,374.02,39.83,1501,0
+384,Kathleen Huynh,North Danny,Postpaid,1270.58,32.95,1297,0
+385,Michelle Harrison,Odomchester,Postpaid,1852.06,4.56,658,0
+386,Michael Rivera,Lake Ashleyton,Postpaid,1025.32,21.13,1305,1
+387,Pamela Meyers,New Steven,Postpaid,1221.89,43.03,1856,1
+388,Nicole Smith,Lake Makaylaview,Postpaid,1857.82,44.51,525,0
+389,Sandra Snyder,Wilsonburgh,Postpaid,384.56,37.14,1481,1
+390,Donald Bennett,East Shane,Postpaid,1655.98,8.06,303,1
+391,Carrie Henry,Port Daniel,Postpaid,501.8,34.16,752,1
+392,Patrick Mendoza,Jenkinsfurt,Prepaid,348.83,20.85,1787,0
+393,Jonathan Rivera,Collinschester,Postpaid,1795.72,24.82,680,0
+394,Lori Juarez,Michaelborough,Prepaid,153.28,44.75,252,1
+395,Peter Costa,Ericville,Prepaid,189.17,36.05,498,0
+396,Jacqueline Jordan,Paulastad,Prepaid,1525.78,21.05,898,1
+397,Adam Ward,Bauerport,Postpaid,267.9,42.04,1279,0
+398,Chris Weber,Davidchester,Postpaid,631.54,31.79,677,1
+399,Mckenzie Barber,Brownmouth,Prepaid,1006.76,34.95,1379,0
+400,Thomas Patel,Hallchester,Prepaid,735.74,19.8,925,0
+401,Erin Johnson,Lake Glenntown,Postpaid,720.02,32.84,1418,0
+402,Dennis Bennett,Vargasview,Prepaid,1463.39,14.56,1647,0
+403,Michele Choi,Courtneybury,Postpaid,1818.58,28.32,949,0
+404,Adam Martinez,Moodyport,Prepaid,664.04,27.28,1352,1
+405,Kayla Willis,Mitchellshire,Postpaid,1561.19,31.0,1225,1
+406,Jennifer Moyer,East John,Postpaid,202.56,43.45,1895,0
+407,Jesus Lopez,Jasonchester,Postpaid,1974.99,11.0,1831,0
+408,Amy Miller,New Markport,Postpaid,1304.36,32.72,640,0
+409,Elizabeth Burnett,Villarrealhaven,Postpaid,932.71,19.22,233,0
+410,Thomas Payne,Mooreville,Prepaid,1465.7,13.19,1050,0
+411,Gina Clay PhD,Solistown,Postpaid,806.03,18.37,1200,1
+412,Kenneth Knight,Wilsonton,Prepaid,1803.09,35.62,1699,1
+413,Jennifer Hill,East Benjaminberg,Postpaid,207.24,22.58,1678,0
+414,Mr. Thomas Steele PhD,Staciemouth,Postpaid,1215.04,20.06,90,1
+415,Lori Brooks,Jamiemouth,Prepaid,1902.21,4.15,1211,0
+416,Christopher Hart,North Dawn,Postpaid,480.96,45.81,750,1
+417,Allison Cole,Waltontown,Postpaid,175.07,30.59,1514,0
+418,Mark Sloan,Port Rickyberg,Postpaid,1724.05,17.5,1422,1
+419,Kimberly Drake,Jonathanchester,Prepaid,791.5,49.6,1704,0
+420,Holly Luna,South Stephanie,Postpaid,1826.45,27.41,1539,1
+421,Michelle Diaz,New Gary,Postpaid,1703.58,45.68,1818,0
+422,Sandra Rodriguez,Washingtonview,Prepaid,418.66,7.7,1008,0
+423,Latoya Swanson,Port Larryland,Postpaid,1063.51,36.41,514,1
+424,Margaret Pacheco,Bergerborough,Prepaid,190.35,18.09,769,0
+425,Jamie Shaw,New Tamaramouth,Prepaid,1075.36,12.22,1188,1
+426,William Carpenter,Cookton,Prepaid,1194.8,27.53,642,1
+427,Paul Davis,North Jason,Prepaid,1875.3,12.25,324,0
+428,Rachel Johnson,North Cathyview,Prepaid,1575.69,6.77,393,0
+429,Tabitha Lopez,Powellburgh,Prepaid,1834.27,43.62,1303,0
+430,Julia Arnold,Johnsonchester,Postpaid,1050.49,41.18,1138,1
+431,Jenna Williams,Stephanieburgh,Postpaid,1987.71,34.74,534,0
+432,Christopher Ross,Ramosside,Prepaid,1041.04,45.22,712,1
+433,Brandon Ho,Halemouth,Prepaid,141.26,47.66,625,0
+434,Ryan Jordan,North Kelly,Prepaid,1918.41,45.69,510,1
+435,James Santos,Hansenside,Postpaid,674.03,30.57,1367,1
+436,John Washington,South Jaclyn,Postpaid,983.13,16.64,1377,1
+437,Shelia Delacruz,Lake Autumn,Prepaid,1956.61,3.01,1522,1
+438,Kathryn Johnson,South Tara,Prepaid,1533.79,28.1,1288,0
+439,Andrew Love,Woodsview,Prepaid,1368.36,13.66,1027,1
+440,Matthew Bauer,South Johnview,Postpaid,402.07,5.34,895,1
+441,Stephanie Cowan,East Elizabethchester,Postpaid,1371.56,6.1,604,0
+442,Lisa Rivera,Martinside,Postpaid,1825.51,48.55,72,0
+443,Shannon Perez,Lindseyfort,Prepaid,1601.92,48.05,1277,0
+444,James Baker,Jeremyton,Postpaid,816.86,1.16,132,1
+445,Roger Myers,East Raymond,Prepaid,1572.11,1.04,1078,0
+446,Heather Cooper,East Emily,Prepaid,781.5,30.01,377,0
+447,Christopher Meyer,East Marie,Prepaid,1275.36,46.76,433,0
+448,Brian Long,New Albertburgh,Prepaid,1236.1,18.97,212,1
+449,Brianna Lewis,Kristinachester,Prepaid,243.39,24.31,859,1
+450,Jessica Juarez,South Johnburgh,Postpaid,186.63,40.78,1662,0
+451,Micheal Khan,Knightview,Prepaid,1524.56,30.99,1575,0
+452,William Robinson,North Donna,Prepaid,930.45,33.72,1661,0
+453,Veronica Golden,Hopkinshaven,Postpaid,611.77,15.94,1878,0
+454,Scott Jacobs,Poolebury,Postpaid,996.66,20.31,1004,1
+455,Kelly Mckee,South Casey,Prepaid,173.35,27.33,1646,1
+456,Craig Roberts,Robintown,Prepaid,1548.18,11.63,906,1
+457,Kristin Bryan,Port Lindaside,Postpaid,1645.19,40.51,810,1
+458,Mr. Herbert Harrison,West James,Postpaid,201.22,47.84,409,1
+459,Ashley Keller,Peterfort,Postpaid,1854.57,45.25,567,1
+460,Patricia Hartman,Morganburgh,Postpaid,1505.12,45.91,62,0
+461,Tammy Pena,South Louistown,Postpaid,493.86,15.24,997,1
+462,John Martin,Port James,Postpaid,1975.72,1.97,698,0
+463,Jeffrey Hurst MD,Cruzside,Prepaid,1858.7,23.59,715,1
+464,Amber Cook,North Raymondbury,Prepaid,1898.12,23.89,1447,1
+465,Tamara Pugh,East Heatherton,Postpaid,1116.17,22.85,1668,0
+466,Ellen Nichols,New Thomasfurt,Postpaid,1328.73,32.26,515,0
+467,Richard Grant,Robertland,Postpaid,932.71,37.02,331,1
+468,Stacey Brown,West Williamborough,Prepaid,1816.45,33.39,93,0
+469,Justin Cook,South Alec,Postpaid,1911.84,17.14,605,0
+470,Robert Hayes,Williamsmouth,Postpaid,1363.61,11.84,1702,0
+471,Michelle Clark,Nathanview,Prepaid,412.17,19.2,1340,1
+472,Anne Duncan,Port Amanda,Postpaid,1423.72,8.03,1983,0
+473,Heather Lozano,Lake Courtney,Postpaid,284.65,42.08,1760,1
+474,Gregory Phelps,East Melvinborough,Prepaid,199.37,27.81,823,1
+475,Stephen Powell,West Dawnport,Prepaid,1283.49,8.66,182,1
+476,Donald Graham,Joseville,Postpaid,1478.34,22.05,771,1
+477,Rebecca Klein,New Jeanette,Prepaid,377.86,49.96,636,1
+478,Veronica Perez,East Megan,Postpaid,1619.28,44.82,1741,0
+479,Cindy Beltran,South Debraland,Prepaid,602.01,43.95,1801,0
+480,Andrew Robinson,North Joan,Postpaid,372.7,6.04,598,0
+481,Lisa Cunningham,Port Ryan,Postpaid,1351.28,30.12,1444,0
+482,David Romero,North Loganshire,Postpaid,450.23,48.43,1303,1
+483,Edward Lucero,Rodriguezberg,Postpaid,1439.72,25.12,1613,1
+484,Sandra Ray,Danielsshire,Postpaid,676.49,16.33,699,1
+485,Brian Winters,Hendersonhaven,Prepaid,577.54,26.17,1069,0
+486,Steven Marks,Matthewsview,Prepaid,1103.13,15.87,1078,1
+487,Stacy Gonzalez,Tonymouth,Prepaid,1218.97,11.3,475,0
+488,Christine Garcia,Lake Alfredside,Prepaid,1877.59,44.35,1467,1
+489,Jessica Wyatt,West Hannah,Prepaid,1605.96,3.39,1617,1
+490,Kyle Schroeder,Bartonview,Postpaid,731.51,8.93,1989,1
+491,Madison Mann,Burnettland,Postpaid,696.51,49.43,53,1
+492,Mary Christensen,Travishaven,Prepaid,334.67,33.18,948,1
+493,Joseph Lin,South Dustin,Prepaid,1937.29,13.57,942,0
+494,Stephen Brown,Port Taylor,Postpaid,781.97,33.15,720,0
+495,Barbara Evans,North Elizabeth,Prepaid,1258.2,18.27,790,0
+496,Michael Mitchell,East Christine,Postpaid,609.25,27.3,1381,0
+497,Angela Knapp,South Williambury,Postpaid,1091.91,2.07,324,1
+498,Veronica Franco,Barnettburgh,Postpaid,1235.2,6.61,1001,0
+499,April Garcia,Victoriafurt,Postpaid,1319.4,46.29,220,0
+500,Amber Spencer,New Megan,Postpaid,1541.81,5.46,253,0
+501,Kelsey Price,Amandatown,Postpaid,1197.04,44.43,269,0
+502,Jason Thomas,New Caroline,Prepaid,750.19,10.35,1991,1
+503,Thomas Hernandez,South Lisaberg,Postpaid,1493.72,19.96,415,1
+504,Samuel Thomas,Tammyview,Prepaid,1729.05,29.33,110,0
+505,Michael Petersen,South Brianburgh,Postpaid,773.7,7.6,771,1
+506,Rebecca Espinoza,North Jacob,Prepaid,1855.2,47.13,1377,1
+507,Sarah Trevino,Serranoland,Postpaid,340.06,8.84,1718,0
+508,Jennifer Aguilar,Rileyton,Postpaid,1317.94,46.87,716,1
+509,Nancy Tucker,New Thomasland,Prepaid,102.0,20.09,1495,1
+510,John Cooper,East Randy,Prepaid,1955.93,24.11,254,1
+511,Angela Lewis,Millerville,Postpaid,959.12,4.45,1634,0
+512,Jason Acosta,North Jacob,Postpaid,370.98,13.79,1719,1
+513,Joshua Meyers,North Sheila,Postpaid,694.23,3.98,366,0
+514,Joshua Perez,Harringtonville,Prepaid,451.17,41.77,1426,0
+515,Dawn Deleon,New Jillian,Postpaid,1461.77,29.12,1795,0
+516,Charles Wright,Lake Aaronmouth,Prepaid,1006.33,45.39,1365,1
+517,Natalie Turner,South Stacy,Postpaid,1415.1,46.24,756,1
+518,Ronald Martinez,East Matthew,Prepaid,1682.59,9.68,67,0
+519,Lisa Dawson,New Danielleshire,Postpaid,1961.38,37.74,501,1
+520,Christopher Richardson,Amberhaven,Postpaid,338.1,15.18,122,0
+521,Walter Mcgee,Lake Lesliechester,Prepaid,290.36,11.19,334,0
+522,Darrell Reynolds PhD,Bowmanfurt,Prepaid,188.03,7.43,534,1
+523,Daniel Thompson,Port Aaron,Prepaid,1244.43,34.69,641,1
+524,Melissa Gutierrez,Colonville,Prepaid,1894.88,3.68,1270,1
+525,Lori Chang,North Melissa,Postpaid,617.87,8.43,1833,1
+526,Valerie Ellis,North Amandashire,Postpaid,1801.08,21.87,293,1
+527,Cindy Allen,New Julie,Prepaid,1323.0,13.35,536,0
+528,Maria Potts,New Andrew,Postpaid,940.7,25.79,825,0
+529,Christopher Ramos,Thomasbury,Postpaid,103.64,8.86,476,0
+530,Tina Wilson,Jessicaburgh,Prepaid,786.63,9.48,1715,1
+531,Amanda Williams,Joshuahaven,Postpaid,1191.23,11.8,147,0
+532,Alexander Ingram,Tiffanyfurt,Postpaid,1638.72,24.13,1933,0
+533,Andrea Johnson,Cassandrachester,Postpaid,558.18,38.53,199,0
+534,Vanessa Smith,East Douglas,Prepaid,673.25,39.3,1292,0
+535,Denise Lopez,South Christine,Prepaid,1538.11,26.3,1883,1
+536,Joseph Brown,West Donnamouth,Postpaid,1152.74,32.05,1293,0
+537,Michael Dean,Reedside,Postpaid,1540.29,11.27,1144,1
+538,Timothy Mcdaniel,Johnsonbury,Postpaid,1155.7,15.43,1711,1
+539,Kelsey Morse,East Kristinaborough,Postpaid,994.99,44.51,545,1
+540,Richard Long,Lake Gregory,Postpaid,133.1,22.47,1384,0
+541,Tony Larson,New Joseph,Prepaid,1128.41,16.7,1032,0
+542,Emily Booth,Manningville,Postpaid,448.26,8.89,929,0
+543,Michelle Delacruz,West Douglasbury,Postpaid,816.05,19.17,1100,0
+544,Cheryl Jones,Bennettview,Postpaid,179.83,39.44,973,0
+545,Jared Floyd,Lake Elizabeth,Postpaid,128.9,48.13,1085,0
+546,Timothy Vincent,Johnsonhaven,Prepaid,1833.22,39.33,354,1
+547,Phyllis Kirk,Allenfort,Prepaid,109.22,26.68,1485,1
+548,Robert Black,Victoriamouth,Postpaid,1451.35,13.92,790,0
+549,Rebecca Allen,North Markview,Postpaid,1051.73,49.48,710,0
+550,Lisa Johnson,East Annette,Postpaid,215.56,11.01,437,0
+551,Adam Davidson,Warrenberg,Postpaid,549.98,49.26,1380,0
+552,Jason Robles,Debraborough,Prepaid,807.53,33.64,520,0
+553,Theresa Glover,Gregorybury,Prepaid,1597.02,17.97,1688,1
+554,Natalie Arnold,Micheletown,Postpaid,1019.74,24.87,758,1
+555,Jennifer Harris,Martinezfort,Postpaid,466.08,4.47,166,0
+556,Alfred Williams,East Dakotaton,Postpaid,1263.48,31.83,1396,1
+557,Jordan Gallegos,Susantown,Postpaid,1382.24,47.4,1118,1
+558,Laura Johnson,South Tonyfort,Postpaid,1011.33,6.73,791,0
+559,Misty Hart,South Jenniferhaven,Prepaid,1309.5,41.78,304,0
+560,Nancy Mason,South Dawn,Prepaid,1800.8,48.84,1025,1
+561,Laura Andrews,Delacruzville,Prepaid,1251.02,11.77,1012,1
+562,Sue Smith,North Patrick,Prepaid,1342.6,7.65,1426,1
+563,Carolyn Gonzales,Traceytown,Postpaid,769.1,37.83,824,1
+564,Jennifer Mckinney,Julieberg,Postpaid,1144.53,32.8,315,0
+565,Matthew Carter,East Riley,Prepaid,949.52,23.41,435,0
+566,Katherine Salinas,Kendramouth,Prepaid,961.49,42.43,205,1
+567,Matthew Ruiz,Martinezfurt,Postpaid,1487.5,20.28,1298,1
+568,Todd Johnson,Williamston,Postpaid,1059.34,26.01,1914,0
+569,Angel Cunningham,West Alfred,Prepaid,1877.35,2.94,579,1
+570,Jared Davis,Smithshire,Postpaid,1275.47,49.04,952,1
+571,Paul Wagner,South Robertchester,Postpaid,1308.58,47.65,1583,0
+572,John Anderson,Lake Nicholas,Prepaid,132.06,43.05,1281,0
+573,Douglas Dickson,West April,Prepaid,486.33,8.08,1636,1
+574,Paula Ramirez,Delgadoton,Postpaid,1203.18,49.87,391,1
+575,Albert Dougherty,East Carl,Postpaid,547.14,11.44,696,1
+576,James Gamble,Port Stephaniefort,Prepaid,1336.0,35.46,330,0
+577,Nancy Rowe,North Ashleyberg,Postpaid,181.97,18.53,726,0
+578,Jesus Fletcher,Williamchester,Prepaid,1816.72,49.93,241,1
+579,Edward Bauer,New Nicholasfurt,Prepaid,1957.21,27.41,1333,0
+580,Andrew Potts,East Garyberg,Postpaid,1976.32,30.26,422,1
+581,Andre Barber,East Derrickton,Postpaid,360.09,28.13,1608,0
+582,Karen Lee,East Greggside,Postpaid,1330.06,8.83,971,1
+583,Matthew Johnson,Hooverport,Prepaid,807.06,32.15,500,0
+584,Julia Walton,North Dylanmouth,Prepaid,552.92,19.74,1493,0
+585,Linda Turner,Lloydmouth,Prepaid,123.81,21.77,1020,0
+586,Cody Ramos,East Monicaside,Postpaid,1702.56,24.68,1206,1
+587,Troy Vance,Williamsview,Postpaid,1532.51,20.23,690,1
+588,Derek Gonzalez,Lake Bradley,Postpaid,549.55,34.62,466,1
+589,Laura Ellison,New Stacyview,Prepaid,1202.31,45.54,1845,0
+590,David Clark,Rileystad,Prepaid,125.74,31.4,810,1
+591,Eric Santiago,South Jessica,Prepaid,1329.72,1.65,622,1
+592,Joshua Brock,Carterborough,Prepaid,1379.1,37.91,1685,1
+593,Rebecca Jackson,West Kristi,Prepaid,183.6,19.27,813,1
+594,Amy Henderson,Mccannland,Postpaid,452.58,12.23,1662,0
+595,Michelle Harrell,Burkebury,Postpaid,1584.05,11.96,1324,0
+596,Paul Montgomery,Cynthiahaven,Prepaid,952.55,1.35,1535,0
+597,Jacob Lopez,South Catherineville,Postpaid,1334.17,9.52,110,0
+598,Patty Gonzalez,Michaelmouth,Prepaid,1096.89,31.47,605,1
+599,Mercedes Perez,Port Glendahaven,Postpaid,767.28,1.93,1334,0
+600,Megan Wagner,Laurenton,Postpaid,271.61,33.16,1734,0
+601,Tracy Anderson,South Justin,Prepaid,943.32,25.49,187,0
+602,Steven Hall,Lauramouth,Prepaid,1565.73,3.68,1792,1
+603,Shannon Williams,North Sean,Prepaid,1474.44,26.93,1904,1
+604,Sean Gregory,North Jessica,Prepaid,1914.47,37.25,995,0
+605,David Zuniga,Haasside,Prepaid,400.85,3.85,1117,0
+606,Lonnie Rodriguez,Kimberlyshire,Prepaid,437.41,17.52,749,1
+607,Mary Williams,East Michael,Postpaid,1427.63,28.51,250,1
+608,Sharon Lynch,Lake Tiffany,Postpaid,1397.16,11.19,1043,1
+609,Valerie Cabrera,West Stephenmouth,Prepaid,177.39,7.36,460,1
+610,Colleen Stephens,Kimberlyville,Prepaid,976.33,19.11,1689,1
+611,William Clark,East Raymond,Postpaid,1185.18,1.52,379,1
+612,Richard Cole IV,West Joshuatown,Postpaid,968.32,44.99,792,0
+613,John Williams,North Tiffany,Prepaid,1178.32,5.33,1337,0
+614,Brittany Fischer DDS,Mcneilshire,Postpaid,382.66,34.71,1445,1
+615,Sara Brandt,Mcdanielview,Prepaid,1150.04,8.94,968,0
+616,Zachary Cole,Gregoryton,Postpaid,306.93,3.36,1796,1
+617,William Frost,Jenniferside,Prepaid,1215.42,42.1,1973,0
+618,Brandy Wagner,Taylorhaven,Prepaid,560.45,49.13,1105,1
+619,Janet Miller,Lewismouth,Prepaid,913.57,2.3,595,1
+620,Dominique Macdonald,New Gregoryview,Prepaid,196.35,29.14,313,1
+621,Linda Santos,Carolside,Prepaid,1323.57,21.12,119,0
+622,Shannon Grant,Lucasfurt,Postpaid,1825.43,40.86,265,1
+623,Alexander Robinson,South Charles,Postpaid,1355.24,25.37,1969,0
+624,Julie Walker,Reyesfort,Prepaid,942.81,40.76,1661,1
+625,Vanessa Patterson,Smithland,Prepaid,332.83,39.51,357,0
+626,Lisa Rasmussen,East Marcusburgh,Postpaid,1546.6,13.24,528,1
+627,Timothy Hill,East Joshuashire,Prepaid,1691.25,8.98,1147,0
+628,Ronnie Rodriguez,Freemanfurt,Prepaid,1725.83,6.17,1177,0
+629,Mrs. Brooke Robles,Lake Anthony,Prepaid,1443.43,26.41,1605,1
+630,Michael Garcia,South Adamtown,Postpaid,910.61,26.12,1575,0
+631,Victoria Hansen,Kaylaton,Postpaid,1274.71,34.94,719,0
+632,Amber Schwartz,East Michael,Prepaid,869.96,49.1,319,1
+633,Brian Saunders,Port Heatherside,Postpaid,1582.51,5.79,752,1
+634,Melissa Jones,East Christinemouth,Postpaid,1202.58,39.25,1979,1
+635,Monica Taylor,New Andrewfort,Postpaid,1667.83,4.97,924,1
+636,Tracy Smith,North Sandra,Prepaid,787.98,8.25,468,1
+637,Walter Hayes,Mendozaton,Postpaid,1471.85,25.24,1036,1
+638,Kelli Reeves,East Melissa,Postpaid,487.72,25.77,928,1
+639,Lisa Osborne,New Matthewberg,Prepaid,525.76,35.09,1284,0
+640,Bradley Williams,Gillmouth,Postpaid,402.94,13.52,1579,1
+641,George Rodriguez,Lake Michellemouth,Postpaid,1618.59,40.75,1791,1
+642,Steven Cline,Lake Rodneyhaven,Prepaid,1934.89,5.08,1914,0
+643,Patrick Martinez,North Yolandaside,Prepaid,1801.31,30.2,1059,1
+644,Melissa Hubbard,Brianfort,Postpaid,1860.71,1.77,589,1
+645,Kenneth Cantrell,Markborough,Prepaid,1863.07,10.24,1809,0
+646,Rebekah Burke,Port Michelletown,Postpaid,970.45,22.83,889,1
+647,Charles Burnett,East Brendastad,Prepaid,996.0,25.72,891,1
+648,Rachel Salazar,Kristitown,Postpaid,1413.97,21.09,1927,0
+649,Adam Conley,Sabrinafort,Postpaid,488.49,32.22,1944,0
+650,Jennifer Williams,Larsonville,Postpaid,548.97,49.67,1640,0
+651,Mr. Ronald Valdez,Masonbury,Prepaid,1052.19,16.45,233,0
+652,Kevin Cooper,New Angelaton,Postpaid,230.02,8.89,978,1
+653,Denise Cortez,Amandabury,Postpaid,1867.15,22.14,1082,0
+654,Sheila Davidson,East Jenna,Prepaid,1758.67,29.35,665,0
+655,Deanna Smith,Cookton,Postpaid,1913.75,40.94,1417,0
+656,Megan Wright,Haroldborough,Postpaid,974.48,39.16,920,0
+657,Matthew West,Port Eric,Postpaid,304.24,2.96,1731,0
+658,Bryan Vega,Garciaton,Postpaid,1365.27,38.85,1446,0
+659,Jesse Davis,West Robertmouth,Postpaid,1565.06,31.0,800,1
+660,Tyler Walsh,New Jefferyborough,Prepaid,1301.9,28.37,93,1
+661,Matthew Mccormick,Bergertown,Postpaid,133.38,23.52,1779,0
+662,Stephanie Gutierrez,Smithside,Postpaid,979.34,38.96,441,1
+663,Stacy Hawkins,Salinasberg,Postpaid,206.93,16.51,226,1
+664,Julian Flores,West Jennifertown,Prepaid,1630.33,18.76,1292,1
+665,Joseph Brady,Rebeccamouth,Prepaid,159.07,42.62,1642,0
+666,Corey Garcia,Gillmouth,Postpaid,908.48,16.04,149,0
+667,Patrick Marshall,Anthonyton,Postpaid,922.57,33.68,1675,1
+668,Austin Castaneda,Shawmouth,Prepaid,103.61,10.46,1327,0
+669,David Cummings,New Amber,Postpaid,1183.71,15.4,307,0
+670,Jeremiah Morgan,Nelsonberg,Prepaid,1735.68,12.97,1166,0
+671,Danielle Burns,South Lucasview,Prepaid,650.48,7.02,687,1
+672,Brian Sweeney,Wrightside,Postpaid,121.86,4.28,778,1
+673,Edgar Miller,South Nicholasville,Postpaid,871.78,33.03,1400,1
+674,Victoria Daniels,East Angelafort,Prepaid,1162.95,27.85,161,0
+675,Brian Rodgers,Port Jenniferfort,Prepaid,518.81,32.62,1951,0
+676,Gary Benitez,West Aprilmouth,Postpaid,1047.54,26.42,1540,1
+677,Samuel Medina,East Carolynburgh,Postpaid,1259.18,16.62,919,1
+678,Lisa Smith,North Brandyborough,Prepaid,858.59,33.43,488,1
+679,Jeffrey Mcbride,Manuelburgh,Prepaid,237.55,25.42,1976,1
+680,Stephanie Lopez,Garcialand,Prepaid,776.48,45.89,1351,0
+681,Cody Scott,Rogershaven,Postpaid,1810.42,48.79,1995,0
+682,Robert Thomas,Wellsfort,Postpaid,309.72,26.93,56,1
+683,Rachael Acevedo,Port Alexandra,Prepaid,748.58,3.29,159,1
+684,Billy Davis,Carpenterstad,Prepaid,1292.7,14.3,1705,1
+685,Jose Sanchez,East Raymondbury,Postpaid,1443.81,1.75,1086,1
+686,Emily Ellis,South Tammyview,Postpaid,483.78,10.03,462,0
+687,Colleen Adkins,Rachaelmouth,Postpaid,1779.15,9.05,774,1
+688,Heather Smith,New Autumnton,Prepaid,1444.08,14.7,97,0
+689,Kevin King,Ericborough,Prepaid,251.53,40.96,1816,1
+690,Julie Morgan,North Daveberg,Prepaid,225.3,47.68,1868,0
+691,Jessica Castillo,Burnsbury,Postpaid,1019.5,4.25,685,1
+692,Jeffrey Webb,Erinstad,Prepaid,1752.96,20.03,1727,1
+693,Kelsey Stout,Lake Michael,Postpaid,1436.91,47.39,327,1
+694,Amanda Beltran,Jacksonhaven,Postpaid,1584.69,44.64,1880,1
+695,Donna Price DVM,Brownview,Postpaid,1611.32,3.0,814,0
+696,Tyler Kaufman,New Nicholasbury,Prepaid,1706.0,10.36,1071,1
+697,Andrew Morales,North Emilyland,Prepaid,414.36,31.53,1249,1
+698,Anthony Wright,Amandaville,Prepaid,754.5,32.22,145,0
+699,Randall Cooper,Michaelfurt,Prepaid,1895.8,48.23,1652,0
+700,Melissa Anderson,West Abigailview,Postpaid,1236.99,10.07,1069,1
+701,Darren Walker,Guerrerochester,Prepaid,1061.22,41.16,1552,0
+702,Jennifer Ramirez,Perezfurt,Prepaid,468.19,11.63,1405,0
+703,Shannon Johnson,Mariahaven,Postpaid,1747.59,25.6,108,1
+704,Scott Martinez,Craigville,Postpaid,1793.29,42.83,963,1
+705,Catherine Keller,Carlsonmouth,Postpaid,1135.66,32.52,1602,0
+706,Mrs. Ann Larsen MD,Port Wayneborough,Prepaid,331.68,10.91,1494,1
+707,Brittany Wright,Port Jessicashire,Postpaid,733.61,48.36,257,0
+708,Scott Becker,Wilcoxside,Prepaid,1381.74,34.51,1133,0
+709,Kendra Clark,Wardview,Postpaid,1374.14,5.73,894,0
+710,Patrick Page,Port Kristinmouth,Prepaid,631.18,3.75,1072,0
+711,Alan Brown,Cherylport,Postpaid,481.63,4.38,1377,0
+712,Belinda Arias,North Jasminfurt,Prepaid,1866.35,28.4,101,1
+713,Julie Wright,Rileyland,Postpaid,604.35,23.96,1133,0
+714,Ellen Phillips,Bowenhaven,Prepaid,1625.08,26.85,1801,1
+715,David Taylor,Guerreroburgh,Postpaid,1039.26,10.6,563,0
+716,Melissa Fletcher,Moralesfurt,Prepaid,1115.55,9.35,593,0
+717,Whitney Humphrey,Richardbury,Prepaid,649.77,18.97,1126,1
+718,Michelle Terry,West Paulton,Prepaid,165.8,42.66,1336,0
+719,Jonathan Ray,Deanburgh,Postpaid,648.33,46.38,1051,1
+720,Thomas Henderson,Jaredborough,Postpaid,235.77,7.8,607,0
+721,Justin Sellers,South Dawn,Postpaid,115.55,12.69,1721,0
+722,Stephen Hill,Simmonstown,Prepaid,1892.43,7.15,553,0
+723,Cheyenne Delacruz,East Robert,Postpaid,1310.21,13.85,1864,0
+724,Lydia Evans,Floydburgh,Postpaid,794.13,5.24,172,1
+725,David Burch,Melodyport,Postpaid,924.66,49.27,1695,1
+726,Tiffany Hodges,Taylormouth,Postpaid,1393.32,43.48,1951,1
+727,Marc Nelson,North Antonio,Postpaid,1012.13,8.64,1286,1
+728,Nicole Velasquez,Gonzalesland,Postpaid,799.06,2.79,1655,0
+729,Elizabeth Gomez,Stephanieside,Prepaid,312.73,31.71,1518,1
+730,Brianna Fowler,Summersberg,Prepaid,1515.25,49.86,756,0
+731,Elizabeth Lopez,Lake Jamesstad,Prepaid,218.0,34.96,1629,0
+732,Joseph Davis,Elliotttown,Postpaid,246.33,19.73,1517,1
+733,Lori Hall,Lake Angel,Prepaid,1452.2,49.28,1223,0
+734,Stephanie Sandoval,New Elizabethview,Postpaid,562.61,27.47,1846,0
+735,John Key,Eduardoshire,Prepaid,420.39,34.62,1175,0
+736,Michele Horton,Seanland,Prepaid,1849.65,36.22,1818,1
+737,Karen Lopez,North Kenneth,Prepaid,1719.47,26.61,843,1
+738,Nancy Schmidt,Brittanyborough,Prepaid,848.09,25.11,232,1
+739,Vanessa Hays,Manuelfurt,Prepaid,1684.02,45.65,1378,1
+740,Kristin Ochoa,Griffinville,Prepaid,695.45,36.02,1861,0
+741,John Hampton,Matthewchester,Prepaid,1812.35,16.96,1148,1
+742,Jessica Taylor,Lake Tyler,Prepaid,1943.53,6.32,1727,1
+743,Jeffrey Henry,North Benjamin,Prepaid,457.13,23.43,931,0
+744,Emily Coleman,South Joelside,Prepaid,1719.94,13.48,403,0
+745,Alicia Gutierrez PhD,Hillburgh,Postpaid,1608.35,21.15,919,1
+746,Nicholas Ellison,Ferrellborough,Postpaid,217.77,16.77,1896,1
+747,Jennifer Santiago,East Jerry,Prepaid,1040.46,12.18,548,1
+748,Mercedes Clark,South Mark,Postpaid,1763.92,43.76,1478,1
+749,Juan Powers,West Jamestown,Postpaid,430.13,1.58,367,1
+750,Sharon Ho,New Ryanfort,Postpaid,1871.3,26.81,1418,0
+751,Ms. Alicia Roberts,South Rebeccatown,Postpaid,1779.23,39.35,86,1
+752,Michael Johnson,Tammyville,Postpaid,748.83,45.81,1384,0
+753,Michelle Calhoun,Hardinport,Prepaid,1683.71,39.67,1454,0
+754,Brittany Johnston,Meyerside,Prepaid,242.14,37.93,1761,0
+755,Amanda Kelley,Millershire,Prepaid,514.74,19.01,1069,1
+756,Tina Yang,Harriston,Postpaid,425.12,35.73,827,0
+757,Justin Douglas,Sharonfort,Postpaid,1111.58,5.28,1109,1
+758,Laura Johnson,Andreamouth,Prepaid,1404.77,18.97,413,1
+759,Chad Johnson,Danielleside,Postpaid,1745.66,6.81,1923,1
+760,Donna Berry,East Derrick,Prepaid,1225.57,40.02,923,0
+761,Yolanda Stephens,South Catherinechester,Postpaid,1446.16,47.7,1279,1
+762,Alicia Villegas,Port Andrea,Postpaid,751.46,49.46,1025,1
+763,James Wong,Matthewhaven,Postpaid,1293.93,48.01,1165,0
+764,Matthew Chandler,Brendachester,Prepaid,501.33,30.02,1269,1
+765,Jeffrey Clements,Parkerfort,Prepaid,1277.59,14.25,1261,0
+766,Virginia Miller,North Brenda,Postpaid,141.39,16.93,662,1
+767,David Coleman,New Margaret,Postpaid,1307.28,44.09,540,0
+768,Warren Morales,New Shelley,Prepaid,259.16,41.73,1284,1
+769,Christopher Martin,Port Jo,Postpaid,558.57,27.29,831,0
+770,Tabitha Parker,Port Rhondamouth,Postpaid,1115.99,7.03,241,1
+771,Sandra Ramirez,East Alexanderberg,Postpaid,1319.35,21.11,1213,0
+772,Penny Dixon,Rayview,Prepaid,1576.94,46.46,723,0
+773,Deanna Herman,Port Kelli,Postpaid,218.75,9.13,1817,1
+774,Edward Green,Barneschester,Postpaid,207.29,23.31,1286,0
+775,Robert Jimenez,Valenciaville,Postpaid,808.33,25.02,1342,1
+776,Aaron Rivera,North Nicholasbury,Postpaid,548.52,3.35,1049,0
+777,Catherine Morales,North Kelly,Prepaid,824.79,10.26,1928,1
+778,Marc Trevino,North Barbarafort,Postpaid,1726.92,25.56,685,0
+779,Kristin Harding,Oliverberg,Prepaid,1989.35,23.76,1049,1
+780,Anthony Baker,Davisland,Prepaid,1849.44,15.22,351,0
+781,Jessica Baker,Meadowschester,Postpaid,1168.76,1.12,277,1
+782,Jesus Fuller,Port Connie,Postpaid,1695.42,27.04,904,1
+783,Kimberly Madden,South Andrewland,Postpaid,967.67,25.96,611,0
+784,Lisa Lee,Acostachester,Prepaid,743.93,4.07,566,1
+785,Beth Clark,Danielberg,Postpaid,1546.67,46.35,161,0
+786,Michelle Goodman,East William,Prepaid,993.32,4.76,1241,1
+787,John Johnson,Matthewchester,Postpaid,892.54,44.86,1052,1
+788,Angela Houston,Hallville,Prepaid,1150.96,38.08,1242,1
+789,Brian Frederick,South Kaylaton,Prepaid,402.41,27.33,541,0
+790,Taylor Chang,Lozanoview,Postpaid,1394.85,3.14,1393,1
+791,Curtis Bowers,Smithhaven,Prepaid,1009.2,29.35,1179,0
+792,Erica Manning,Davisberg,Postpaid,1900.4,36.32,1794,0
+793,Robin Wilson,Arroyoburgh,Postpaid,660.89,45.6,729,1
+794,Corey Dunn,West Tammybury,Prepaid,666.02,32.7,495,0
+795,Andrew Rivera,Allenmouth,Prepaid,521.79,32.78,535,1
+796,Christopher Velazquez,South Nancyville,Postpaid,154.76,41.88,679,0
+797,Steve Walsh,Kleinchester,Prepaid,798.64,21.48,1790,0
+798,Anthony Stephens,Cookside,Postpaid,356.48,5.29,706,1
+799,Nathaniel Carroll,New Max,Prepaid,1025.4,13.44,1389,1
+800,Jonathan Palmer,South Anitaborough,Prepaid,1241.65,7.32,1913,1
+801,Evan Harrison,Elizabethburgh,Prepaid,854.18,41.32,441,0
+802,Susan Lawson,Danielchester,Prepaid,860.46,37.71,830,1
+803,Desiree Payne,Davischester,Prepaid,1896.53,44.17,1303,0
+804,Kathleen Gonzalez,Kevinmouth,Prepaid,163.21,16.53,1501,0
+805,James Ortega,New Michaelhaven,Postpaid,408.08,14.07,1693,1
+806,David Brown,South Veronica,Prepaid,1543.42,6.38,1328,1
+807,Mark Alvarez,Jamesberg,Postpaid,978.93,41.84,840,0
+808,Benjamin Ramirez,Miguelstad,Postpaid,1279.32,17.48,242,0
+809,Amanda Klein,West Keithland,Postpaid,1962.48,20.62,139,1
+810,William Young,Paulaburgh,Prepaid,1684.5,40.25,57,1
+811,Justin Carter,Lake Paul,Prepaid,1962.79,15.81,721,0
+812,Adam Mcpherson,East Richardstad,Prepaid,1283.25,19.67,1488,0
+813,Leslie Gonzales,South Joshua,Prepaid,745.65,10.8,805,0
+814,Tyler Perry,Johnsonbury,Prepaid,1944.61,38.34,1317,0
+815,Latoya Norris,Bauerberg,Prepaid,802.24,21.83,1684,1
+816,Erin Logan,South Amandaside,Postpaid,190.56,8.51,730,0
+817,Julia Frye,West Lynnland,Postpaid,1228.42,44.88,1878,0
+818,Amber Davis,Danielchester,Prepaid,1944.64,29.78,1729,0
+819,Laura Olson,Rebeccaborough,Prepaid,1534.68,2.32,1445,0
+820,Kevin Diaz,South Shannon,Postpaid,206.8,42.77,1915,1
+821,Michelle Bennett,Jamesmouth,Postpaid,1131.14,16.57,1035,0
+822,Anna Silva,West Kevin,Postpaid,1104.8,40.02,1839,1
+823,Jared Murray,Hartmanchester,Prepaid,1457.82,18.36,844,0
+824,Gary Logan,Lake Darlenemouth,Prepaid,1715.03,47.42,1842,0
+825,Jennifer Yu,Ortizchester,Prepaid,264.18,35.85,1660,0
+826,Scott Dyer,New Patricia,Prepaid,726.81,40.98,450,0
+827,Jasmine Mathews,Garyborough,Postpaid,1224.8,28.83,734,0
+828,Cathy Guzman,Medinahaven,Prepaid,835.73,6.02,556,0
+829,Derek Peck,North Roberttown,Prepaid,493.92,32.4,1634,1
+830,Amy Hernandez,North Bryanton,Prepaid,597.51,23.26,117,0
+831,William Garza,Wrightfurt,Postpaid,1297.31,17.03,1464,1
+832,Kimberly Diaz,Arthurport,Postpaid,505.65,16.46,1187,1
+833,Julia Franco,Matthewland,Postpaid,1146.87,42.39,654,1
+834,Kathleen Bell,East Tammiefurt,Postpaid,1857.82,22.85,648,1
+835,Ann Larson,New Heidi,Postpaid,1073.65,47.16,402,1
+836,Michael Moore,Port Rachel,Prepaid,1875.09,3.77,432,1
+837,Kayla Wheeler,Port Victoria,Postpaid,348.12,38.27,1781,0
+838,Paul Gutierrez,Josephport,Postpaid,1508.12,37.28,662,1
+839,Donna Haas,East Ryan,Postpaid,1487.06,39.35,1754,1
+840,Philip House,Santosmouth,Prepaid,339.07,49.12,503,1
+841,Joseph Woods,Port Steventon,Postpaid,1759.2,37.75,1693,1
+842,Keith Barrett,Port Nathan,Postpaid,217.34,6.8,1918,1
+843,Jeffrey Gray,Heatherborough,Prepaid,176.06,21.26,1425,0
+844,Michael Mccann,Carrieberg,Prepaid,244.44,29.22,651,0
+845,Cassandra Armstrong,South Carlosborough,Prepaid,1543.78,39.46,1258,0
+846,Alan Olson,Cathyville,Postpaid,1370.61,34.43,568,0
+847,Melissa Mendez,Lanefort,Postpaid,1178.45,22.26,127,1
+848,Amy Griffin,Port Jamieport,Prepaid,790.24,46.03,1161,1
+849,Lisa Owens,Clarkhaven,Postpaid,1033.3,21.1,1121,1
+850,Elizabeth Weber,Brownfurt,Prepaid,1627.26,24.84,1558,0
+851,Jessica Poole,Melindabury,Prepaid,1705.67,16.19,1220,1
+852,Mrs. Lisa King,Lake Ruben,Prepaid,1261.96,27.19,1705,0
+853,Megan Clayton,Clarkmouth,Postpaid,1225.26,26.39,1487,1
+854,Lindsay Reyes,Allenborough,Postpaid,1001.23,14.86,897,1
+855,Frank Hart,West Mary,Prepaid,1713.12,35.11,907,0
+856,Brittany Walker,New Robinville,Prepaid,1305.87,19.52,1886,0
+857,Jonathan Gaines,South Robert,Postpaid,501.67,20.12,1829,0
+858,Kenneth Macias,Danielleburgh,Postpaid,1569.89,20.7,50,0
+859,Lisa Robinson,West Christianbury,Postpaid,1096.53,11.8,1967,0
+860,Aaron Parker,Josephhaven,Prepaid,410.86,43.28,1913,1
+861,Tiffany Huynh,Elizabethfort,Prepaid,210.11,21.29,1913,0
+862,Marie Jones,New Danielle,Postpaid,629.98,35.96,1658,0
+863,Brittany Clark,Mcclainborough,Prepaid,1845.88,29.19,1815,0
+864,Nicole Mcgee,West Coryborough,Prepaid,168.05,45.29,1528,1
+865,Margaret Davis,Port Jaime,Prepaid,870.38,48.65,1897,0
+866,Scott Parrish,Youngburgh,Postpaid,1326.96,38.5,243,1
+867,Margaret Bell,Kingburgh,Prepaid,1122.22,23.64,1401,1
+868,Anthony Gray,Justintown,Postpaid,403.12,30.09,1354,1
+869,Angela Williams,New Tiffanyhaven,Prepaid,1040.06,19.88,781,1
+870,Jacqueline Mathis,Port Justin,Prepaid,317.03,45.77,1497,1
+871,William Williams,Philipport,Postpaid,1059.28,49.7,889,1
+872,Jacob Peterson,New Christopher,Prepaid,939.7,45.28,945,1
+873,Amy Ortiz,Port Vincentshire,Postpaid,652.77,47.24,1900,0
+874,Kathryn Benson,South Marilyntown,Postpaid,1683.78,20.79,249,0
+875,Scott Delgado,West Carlos,Postpaid,583.5,46.81,895,1
+876,Joseph Sims,Gutierrezshire,Prepaid,487.94,2.62,919,0
+877,Ian Barry,Munozhaven,Postpaid,781.71,47.64,1540,1
+878,Robyn Roth,Diazmouth,Postpaid,464.95,26.38,497,0
+879,Dr. Joseph Smith,Port Erinmouth,Prepaid,1944.47,35.21,1551,0
+880,Douglas Chavez,South Kaitlyn,Postpaid,1657.12,1.91,963,1
+881,Stacy Moore,East Jonshire,Prepaid,1024.56,31.23,150,0
+882,Brooke Stephens,Heatherstad,Postpaid,361.2,19.29,1048,1
+883,Sean Fuller,South Amy,Prepaid,1018.07,26.67,289,1
+884,Karen Roach,West Caitlinchester,Postpaid,809.77,37.88,134,0
+885,Kimberly Navarro,Emilybury,Postpaid,423.61,11.89,1691,0
+886,Karen Henderson,Coxfurt,Prepaid,665.83,25.43,1477,0
+887,Daniel Kidd,Robertmouth,Postpaid,1077.82,1.64,513,1
+888,Johnny Williams,Port Jessica,Postpaid,1712.22,1.63,187,0
+889,Katherine Terry,Joycetown,Postpaid,587.8,23.91,820,1
+890,Mary James,Jenniferstad,Prepaid,1082.03,39.49,1313,1
+891,Edward Johnson,West Julia,Prepaid,216.94,11.89,1318,0
+892,Kim Black,Leshire,Postpaid,1954.33,41.29,626,1
+893,Timothy Brown,Andreastad,Postpaid,1264.65,1.47,1049,0
+894,Jennifer Rush,Carterville,Postpaid,1838.29,18.86,1801,0
+895,Dean Allen,South Deborahborough,Prepaid,232.81,6.56,787,1
+896,Lisa Sherman,East Brooke,Postpaid,530.88,32.99,1006,0
+897,Carol Johnson,Lindaborough,Prepaid,1953.36,34.3,1820,0
+898,Adam Rodriguez,East Laura,Postpaid,1617.61,31.81,1021,1
+899,Robert Wade,Henryside,Prepaid,1074.42,32.53,1314,0
+900,Samantha Valentine,Port Alexshire,Postpaid,883.46,10.8,816,0
+901,Sarah Cruz,Whitetown,Prepaid,1192.55,16.96,336,1
+902,Matthew Alexander,Cynthiaside,Prepaid,1355.39,4.41,1073,0
+903,Joshua Lowe,Lake Brandyport,Prepaid,1689.32,1.78,802,1
+904,Tina Leblanc,Parkermouth,Prepaid,405.09,11.67,740,1
+905,Dawn Massey,Laurieton,Prepaid,513.3,12.72,1901,1
+906,Nathan Smith,Lake Elizabethburgh,Postpaid,1597.34,1.24,424,1
+907,Michael Stein,Benderport,Postpaid,1368.87,18.37,1663,1
+908,Peter Oliver,Stevenshire,Postpaid,1788.4,31.26,105,0
+909,Angel Bryant,Port Mackenzieview,Postpaid,1627.47,10.64,599,1
+910,Amanda Young,Lake Kristine,Prepaid,1861.12,35.6,879,0
+911,Jacqueline Waters,South Julieton,Postpaid,141.74,11.81,198,1
+912,Richard Martin,West Mario,Prepaid,493.75,35.09,1878,1
+913,Kristin Hines,Stewartmouth,Prepaid,658.39,15.7,917,0
+914,Katie Watson,Lake James,Postpaid,1833.54,38.66,692,1
+915,Elizabeth Reynolds,West Lawrenceside,Postpaid,203.46,46.98,967,0
+916,Sharon Morgan MD,Kingville,Postpaid,1467.34,39.89,271,0
+917,Kristi Reyes,New Davidburgh,Prepaid,1095.24,28.85,895,0
+918,Donald Keller,Josemouth,Postpaid,195.98,35.64,928,1
+919,Amy Mayo,West Jenniferbury,Postpaid,1060.42,16.16,1516,1
+920,Edwin Gray,Nataliechester,Prepaid,1584.52,35.86,1478,1
+921,Thomas Garcia,East William,Postpaid,880.29,15.23,92,1
+922,Joseph Fernandez,Lake Leslie,Prepaid,1846.07,19.97,1980,0
+923,April Turner,South Beverly,Prepaid,1188.14,1.06,1673,1
+924,Alyssa Carroll,South Lisa,Prepaid,725.87,47.77,485,1
+925,Heather Edwards,Cynthiafurt,Postpaid,1563.93,41.86,1134,0
+926,April Berg,Knightmouth,Prepaid,427.1,29.33,294,0
+927,Brandon Brown,North Kathrynmouth,Prepaid,1527.58,13.15,1019,1
+928,Amanda Anderson,East Richard,Prepaid,604.27,26.44,664,0
+929,Christopher Jenkins,Lake Rachel,Prepaid,1723.35,7.82,285,0
+930,Richard Williams,East Lawrenceberg,Postpaid,1522.22,10.13,1384,0
+931,Shawn Rodriguez,Delgadofort,Postpaid,1422.68,35.98,407,1
+932,Kevin Caldwell,Briannaport,Postpaid,269.52,13.92,1593,1
+933,Marisa Woods,Blakemouth,Postpaid,1635.74,43.66,337,1
+934,Tyler Miles,North Caitlinmouth,Postpaid,1323.63,20.31,463,1
+935,Johnny Harvey,East David,Postpaid,141.08,4.36,964,0
+936,Erin Young,South Jennifer,Postpaid,986.11,22.24,1747,1
+937,Elijah Williams,East Mary,Postpaid,1373.21,28.82,96,0
+938,Linda Gibson,Garciaside,Prepaid,157.56,21.2,1785,1
+939,Jesus Giles,Port Whitneymouth,Postpaid,1743.09,22.24,373,0
+940,Vanessa Garza,East Robert,Postpaid,1462.87,17.08,1452,1
+941,Rebecca Lopez,East Henry,Prepaid,933.16,41.43,1250,0
+942,Kathleen Williams,West Javierburgh,Prepaid,980.62,26.7,609,0
+943,Lisa Bennett,Lake Zacharychester,Prepaid,577.81,29.93,413,1
+944,Carol Evans,Connorside,Postpaid,671.61,38.71,856,1
+945,Jason Bailey,South Amy,Prepaid,488.06,13.33,1931,1
+946,Robert Cabrera,South Sarahmouth,Prepaid,179.26,10.51,1694,1
+947,Kevin Page,Huntermouth,Postpaid,1649.4,30.5,1110,0
+948,Tracy Mcdaniel,Kayleeville,Postpaid,1931.36,16.43,336,0
+949,Jill Nichols,East Robert,Prepaid,1657.9,17.81,702,0
+950,Brian Mahoney,South Annastad,Postpaid,1820.74,11.17,512,1
+951,Donna Brown,North Sarahstad,Prepaid,802.33,32.66,436,1
+952,Anthony Armstrong,South Sheryl,Prepaid,622.72,45.42,1363,0
+953,Mary Schaefer,Lake Adrianburgh,Prepaid,281.41,17.64,1048,0
+954,Olivia Bradley,Roblesbury,Postpaid,524.46,31.48,1891,0
+955,Heather Davis,Nicholsville,Prepaid,1871.76,40.42,122,0
+956,Daniel Miranda,Morenobury,Postpaid,1059.34,9.18,1565,1
+957,Manuel Hurley,Lake Kaitlynfort,Postpaid,1550.56,34.92,665,0
+958,Dean Aguilar,Lake Kathryn,Prepaid,429.34,44.41,175,0
+959,Barbara Gonzales,Priceton,Prepaid,803.26,34.45,289,0
+960,Tina Harris,Lake Roberto,Postpaid,398.29,8.58,535,1
+961,Melissa Hardin,West Lindsayhaven,Prepaid,539.53,19.89,1325,1
+962,Patrick Salinas,Fullerville,Postpaid,458.54,11.85,605,0
+963,Jeremiah Burnett,Port John,Postpaid,1658.55,39.37,570,0
+964,Bradley Smith,Port Jacobfort,Prepaid,675.36,8.07,840,0
+965,Charles Gonzales,Tatefurt,Postpaid,1646.43,38.11,1310,0
+966,Deborah Stewart,New Jordanshire,Postpaid,233.21,22.26,229,0
+967,Dylan Brooks,South Kimberly,Postpaid,355.91,3.24,1416,1
+968,Maria Jones,Lake Kaylaville,Postpaid,1298.49,12.92,1051,1
+969,Eric Robles,Jamestown,Prepaid,559.19,15.72,1070,1
+970,Alejandra Miranda,West Brandichester,Postpaid,1797.62,20.45,1475,0
+971,Joel Hill,Smithfort,Prepaid,672.3,29.06,1131,0
+972,Ernest Rosales,South Alicia,Prepaid,1663.67,4.59,978,0
+973,Victor Hughes,Port Janet,Postpaid,1659.1,4.6,183,0
+974,Joseph Hendrix,Davidberg,Prepaid,756.99,6.65,816,1
+975,Michael Bush,West Reneefort,Prepaid,1906.67,18.33,102,0
+976,Debra Hawkins,South Elizabeth,Postpaid,1746.35,5.11,392,1
+977,Andrew Gonzalez,Port Mark,Prepaid,1722.11,15.71,1926,0
+978,William Henson,Cowanside,Postpaid,1774.29,2.61,1835,0
+979,Kevin Roy,Hamiltonshire,Postpaid,1858.94,33.7,1735,1
+980,Wayne Brown,Suzanneton,Prepaid,1655.1,49.12,1627,1
+981,Jeffrey Ramos,Hollowayfurt,Postpaid,547.93,6.61,86,1
+982,Franklin Deleon,Port Autumn,Postpaid,1468.87,30.0,1276,1
+983,Anthony Fry,East Christopher,Prepaid,170.27,13.28,1922,0
+984,Jeffrey Wright,Port Kristintown,Prepaid,623.92,36.28,500,0
+985,Nathan Frazier,New Brandontown,Prepaid,667.2,22.12,165,1
+986,Shannon Duran,Ruizberg,Postpaid,436.32,19.59,1067,0
+987,Bill Mckay,Port Brianna,Prepaid,1384.11,24.51,1139,1
+988,Kevin Shaw,Davidhaven,Postpaid,1169.87,1.01,1394,0
+989,Jeffrey Wiley DDS,Ryantown,Prepaid,162.75,11.25,1124,1
+990,Tanya Robinson,West Ericastad,Prepaid,126.29,29.29,1951,0
+991,Theodore Brown,East Dawn,Postpaid,348.84,36.85,652,0
+992,Troy Morales,Jordanshire,Prepaid,126.71,46.31,152,0
+993,Marcus Flores,South George,Prepaid,1074.02,29.83,1432,1
+994,Elizabeth Nicholson,Omarville,Postpaid,597.33,13.46,1332,1
+995,Diana Lawrence,Roymouth,Postpaid,1117.03,34.67,340,0
+996,David Roberts,Robertport,Postpaid,1901.49,28.65,993,0
+997,Carrie Duncan,Smithfort,Postpaid,347.35,13.81,234,0
+998,Amanda Martinez,South Darryl,Postpaid,1183.39,14.77,1783,1
+999,Sharon Keller,Pattonfurt,Prepaid,1786.72,39.82,1723,1

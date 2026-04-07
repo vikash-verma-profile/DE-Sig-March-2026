@@ -1,0 +1,49 @@
+Data warehousing==>Data warehouses are purpose-built to aggregate and process large amounts of structured data quickly . To protect this data, they typically use relational databases to provide ACID transactions, a step that is crucial for ensuring data integrity for business applications.
+
+LIMITATIONS=>
+
+robust, data
+warehouses are often hard to scale to handle the large volumes, variety of analytics
+(including event processing and data sciences), and data velocity typical in big data
+scenarios. This limitation is a critical factor that often necessitates using more scalable
+solutions such as data lakes or distributed processing frameworks like Apache Spark.
+
+Data lakes==>Data lakes are scalable storage repositories (HDFS, cloud object stores such as Ama‐
+zon S3, ADLS Gen2, and GCS, and so on) that hold vast amounts of raw data
+in their native format until needed
+
+data lakes are designed to handle an internet-scale volume, velocity, and variety of
+data (e.g., structured, semistructured, and unstructured data).
+
+LIMITATIONS=>
+The lack of ACID guarantees means the storage system
+
+processing failures leave your storage in an inconsistent state with orphaned files.Subsequent queries to the storage system include files that should not result in
+duplicate counts
+
+
+LAKEHOUSES==>
+The lakehouse combines the best elements of data lakes and data warehouses for
+OLAP workloads. It merges the scalability and flexibility of data lakes with the man‐
+agement features and performance optimization of data warehouses 
+
+Delta Lake, Apache Iceberg, and Apache Hudi are the most popular open source
+lakehouse formats. As you can guess, this book will focus on Delta Lake.
+
+Delta Lake
+
+Delta Lake is an open source storage layer that supports ACID transactions, scalable
+metadata handling, and unification of streaming and batch data processing. It was
+initially designed to work with Apache Spark and large-scale data lake workloads.
+
+KeyFeatures==>
+
+
+ACID transactions
+
+Scalable metadata
+Time travel
+Unified batch/streaming
+Schema evolution/enforcement
+Audit history
+DML operations
