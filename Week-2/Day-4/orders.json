@@ -1,0 +1,19 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Vikash",
+    "items": [
+      {"product": "Laptop", "price": 800},
+      {"product": "Mouse", "price": 20}
+    ],
+    "location": {"city": "Bangalore", "country": "India"}
+  },
+  {
+    "order_id": 102,
+    "customer": "Rahul",
+    "items": [
+      {"product": "Phone", "price": 500}
+    ],
+    "location": {"city": "Delhi", "country": "India"}
+  }
+]
