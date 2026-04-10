@@ -1,0 +1,23 @@
+Module 1 — Infrastructure as Code (Terraform Basics)
+Introduction to Infrastructure as Code
+Terraform Workflow (init, plan, apply, destroy)
+Providers
+Resource Blocks
+Variables & Outputs
+Dependencies
+Terraform State Management
+Remote Backend 
+Creating Sample Cloud Resource (Azure)
+Basic Parameterization
+
+Module 2 — CI/CD Foundations
+What is CI/CD
+CI vs CD
+Git Branching Strategy
+CI Pipeline Concepts (build, test, lint)
+CD Pipeline Concepts (deploy infra/app)
+Pipeline YAML Structure
+Secrets in CI/CD
+Environment Promotion (Dev → Stage → Prod)
+Introduction to GitHub Actions
+Basic Pipeline Example

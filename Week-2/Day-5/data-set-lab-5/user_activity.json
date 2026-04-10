@@ -1,0 +1,5 @@
+{"user_id": 1, "course_id": 101, "activity_type": "play", "timestamp": "2026-04-01T10:00:00"}
+{"user_id": 2, "course_id": 102, "activity_type": "pause", "timestamp": "2026-04-01T10:05:00"}
+{"user_id": 3, "course_id": 101, "activity_type": "play", "timestamp": "2026-04-01T10:10:00"}
+{"user_id": 1, "course_id": 103, "activity_type": "stop", "timestamp": "2026-04-01T10:15:00"}
+{"user_id": 2, "course_id": 102, "activity_type": "play", "timestamp": "2026-04-01T10:20:00"}

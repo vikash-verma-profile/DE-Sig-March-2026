@@ -1,5 +1,5 @@
 gcloud auth login
-gcloud config set project my-project-id
+gcloud config set project sigmoid-492707
 gcloud config list project
 gcloud config configurations list
 gcloud config configurations activate my-default-configuration

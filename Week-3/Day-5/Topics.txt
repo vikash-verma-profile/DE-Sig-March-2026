@@ -1,0 +1,38 @@
+Module 5 — DAX Fundamentals
+Calculated Columns vs Measures
+DAX syntax basics
+Filter context vs Row context
+CALCULATE function
+Basic aggregation functions
+Time intelligence basics
+TOTALYTD
+SAMEPERIODLASTYEAR
+
+Module 6 — Advanced DAX
+Iterators (SUMX, AVERAGEX)
+Variables in DAX
+RANKX
+Dynamic measures
+SWITCH
+IF
+KPI calculations
+Performance considerations in DAX
+
+Module 7 — Storytelling & Advanced Reporting
+Bookmarks
+Tooltips
+Drill-through pages
+Dynamic titles
+Executive dashboard design principles
+Custom visuals
+
+Module 8 — Power BI Service & Governance
+Publishing to Power BI Service
+Workspaces
+Dataset management
+Refresh schedules
+On-premises gateway
+Sharing & collaboration
+Row-Level Security (RLS)
+Deployment pipelines
+Power BI best practices

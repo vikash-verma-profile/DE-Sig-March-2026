@@ -1,0 +1,25 @@
+Module 7 — Performance & Internal Mechanics
+Query result cache
+Metadata cache
+Data cache
+How caching works internally
+Cache invalidation rules
+Clustering keys
+Micro-partitions
+Query performance optimization
+Warehouse tuning basics
+Query profile analysis
+
+Module 8 — Data Sharing & Governance
+Secure Data Sharing
+Cross-account sharing
+Data masking policies
+Row access policies
+Governance concepts
+
+Module 9 — Advanced Concepts
+Data sampling
+Overview of Container services
+Advanced best practices
+Cost optimization
+Production architecture patterns

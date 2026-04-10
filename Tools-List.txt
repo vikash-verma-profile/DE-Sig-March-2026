@@ -1,0 +1,83 @@
+1. Big Data Processing Engines
+Apache Spark
+Apache Flink
+Apache Storm
+Apache Hadoop MapReduce
+Apache Tez
+Apache Samza
+2. Storage & Data Lake
+Apache Hadoop HDFS
+Apache HBase
+Apache Cassandra
+Apache Kudu
+Apache Ozone
+3. Data Lake Table Formats (Modern)
+Apache Iceberg
+Apache Hudi
+4. Streaming & Messaging
+Apache Kafka
+Apache Pulsar
+Apache ActiveMQ
+Apache RocketMQ
+5. Data Ingestion
+Apache NiFi
+Apache Flume
+Apache Sqoop
+6. Query Engines & SQL
+Apache Hive
+Apache Impala
+Apache Drill
+Apache Phoenix
+Apache Calcite
+7. Workflow Orchestration
+Apache Airflow
+Apache Oozie
+8. Machine Learning & AI
+Apache Mahout
+Apache MXNet
+9. Data Serialization
+Apache Avro
+Apache Parquet
+Apache ORC
+Apache Thrift
+10. Coordination & Distributed Systems
+Apache ZooKeeper
+Apache Curator
+11. Search & Analytics
+Apache Solr
+Apache Lucene
+12. Metadata & Governance
+Apache Atlas
+Apache Ranger
+13. Build, DevOps & Misc
+Apache Maven
+Apache Ant
+Apache Tomcat
+Apache HTTP Server
+14. Graph & Specialized Systems
+Apache Giraph
+Apache TinkerPop
+
+
+There are 350+ Apache projects
+
+MUST KNOW (Top 10)
+Spark
+Kafka
+Airflow
+Hive
+HDFS
+Iceberg / Hudi
+NiFi
+Flink
+Parquet / Avro
+ZooKeeper
+
+
+Typical pipeline:
+
+Ingestion → NiFi / Kafka
+Storage → S3 / HDFS
+Processing → Spark
+Table → Iceberg / Hudi
+Orchestration → Airflow

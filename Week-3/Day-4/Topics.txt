@@ -1,0 +1,47 @@
+Module 1 — Power BI Architecture & Connectivity
+Introduction to Power BI Ecosystem
+Power BI Desktop
+Power BI Service
+Power BI Gateway
+Import vs DirectQuery vs Live Connection
+Dataset vs Data Model
+Dataflows
+Connecting to data sources
+Performance Analyzer
+
+Module 2 — Power Query & Data Transformation
+Power Query Editor Overview
+Query Folding
+Data cleaning techniques
+Handling missing values
+Data type management
+Merge queries
+Append queries
+Pivot & Unpivot
+Group By transformations
+Basic M language concepts
+
+Module 3 — Data Modeling in Power BI
+Star Schema vs Snowflake Schema
+Fact & Dimension tables
+Creating relationships
+Cardinality (1-Many, Many-Many)
+Cross-filter direction
+Active vs Inactive relationships
+Role-playing dimensions
+Best practices for model optimization
+
+Module 4 — Visualizations & Report Design
+Core visuals
+	Table
+	Matrix
+	Bar / Column charts
+	Line charts
+	Cards
+	Slicers
+Drill-down & drill-through
+Report-level filters
+Page-level filters
+Visual-level filters
+Conditional formatting
+Basic dashboard layout principles
