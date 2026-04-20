@@ -1,0 +1,51 @@
+Module 1 — Containerization Fundamentals
+What is Docker
+Why containerization
+VM vs Container
+Images
+Containers
+Layers
+
+Module 2 — Docker Core Workflow
+Docker installation
+Dockerfile creation
+Docker build
+Docker run
+Docker stop
+Docker ps
+Docker logs
+Docker exec
+Environment variables
+Volumes & bind mounts
+Networking basics
+Hands-on: Containerize a simple Python application
+
+Module 3 — Docker in Production
+Docker Compose (multi-container applications)
+Registries (Docker Hub, ECR, GCR)
+Pushing images
+Pulling images
+Optimizing Dockerfiles
+Multi-stage builds
+.dockerignore
+Security basics
+
+Module 4 — Kubernetes Fundamentals
+Why Kubernetes
+Kubernetes architecture (Control Plane & Worker Nodes)
+Pods
+ReplicaSets
+Deployments
+
+Module 5 — Kubernetes Networking & Configuration
+Namespaces
+Services (ClusterIP, NodePort, LoadBalancer)
+ConfigMaps
+Secrets
+Ingress basics
+
+Module 6 — Kubernetes Hands-On
+Deploy container on local cluster (Minikube)
+kubectl commands (apply, get, describe, logs, delete)
+Scaling deployments
+Self-healing demonstration
